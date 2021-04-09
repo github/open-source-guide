@@ -250,7 +250,7 @@ Quer seja documentação oficial ou um email casual, seu estilo de escrita é pa
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Eu procurei estar envolvido com todas as threads na lista de emails e mostrar comportamento exemplar, sendo legal com as pessoas, levando seus problemas a sério e tentando ser útil de um modo geral. Após um tempo, as pessoas permaneceram não somente para fazer questionamentos, mas para ajudar com as respostas também, e, para minha completa alegria, elas imitaram o meu estilo.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

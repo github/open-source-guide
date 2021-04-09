@@ -300,7 +300,7 @@ Fie că este vorba de documentație oficială sau de un email obișnuit, stilul 
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @janl despre [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl despre [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

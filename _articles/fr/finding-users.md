@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: Trouver des utilisateurs pour votre projet
-description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
+description: Aidez votre projet Open Source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
 class: finding
 order: 3
 image: /assets/images/cards/finding.png

@@ -59,7 +59,7 @@ Mendorong penyumbang lain adalah pelaburan dalam diri anda juga. Apabila anda me
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Pernahkah anda ke acara (berteknologi) di mana anda tidak mengenali sesiapa, tetapi orang lain sepertinya berdiri dalam kumpulan dan berbual seperti rakan lama? (...) Sekarang bayangkan anda mahu menyumbang kepada projek sumber terbuka, tetapi anda tidak melihat mengapa atau bagaimana ini berlaku.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -203,7 +203,7 @@ Tugas anda sebagai penyelenggara adalah untuk memastikan situasi ini tidak menin
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
  Sebagai penyelenggara projek, sangat penting untuk menghormati penyumbang anda. Mereka sering mengambil apa yang anda katakan secara peribadi.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

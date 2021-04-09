@@ -1,5 +1,5 @@
 pl:
-  locale_name: Polish
+  locale_name: Polski
   nav:
     about: O projekcie
     contribute: Współpracuj
@@ -28,4 +28,4 @@ pl:
       # Label for love octicon
       love_label: love
       # Label for the contributors link
-      friends_label: friends
+      friends_label: przyjaciele
