@@ -1,7 +1,7 @@
 ---
 lang: fr
-title: Leadership et Gouvernance
-description: Les projets open source en croissance peuvent bénéficier de règles formelles pour prendre des décisions.
+title: Leadership et gouvernance
+description: Les projets Open Source en croissance peuvent bénéficier de règles formelles pour prendre des décisions.
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
