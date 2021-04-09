@@ -54,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   これまでに（技術）イベントに参加して、知り合いが誰もおらず、周りは皆グループになって古くからの友人同士のように話しているといった経験をしたことはありませんか？（中略）オープンソースプロジェクトにコントリビュートをしたいと思っているのに、なぜ、またはどのようにそのプロジェクトが立ち上がったのかがわからないという状況を想像してみて下さい。
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -198,7 +198,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   プロジェクトのメンテナーとして、コントリビューターに対して敬意を払うのは非常に重要です。彼らはあなたの言うことを非常に個人的に捉えることがよくあります。
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

@@ -249,7 +249,7 @@ Sama ada dokumentasi rasmi atau e-mel biasa, gaya penulisan anda adalah sebahagi
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Saya cuba terlibat dengan setiap urutan dalam senarai mel, dan menunjukkan tingkah laku teladan, bersikap baik kepada orang lain, memandang serius masalah mereka dan berusaha untuk membantu secara keseluruhan. Selepas beberapa ketika, orang-orang tidak hanya bertanya, tetapi membantu menjawabnya, dan dengan rasa gembira saya, mereka meniru gaya saya.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
