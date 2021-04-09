@@ -59,7 +59,7 @@ Diğer katılımcıları teşvik etmek kendinize yapılan bir yatırımdır. En 
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Hiç kimseyi tanımadığınız (teknoloji) bir etkinliğe katıldınız mı, ama diğerleri gruplarda durup eski arkadaşlar gibi sohbet ettiler mi? (...) Şimdi açık kaynaklı bir projeye katkıda bulunmak istediğinizi hayal edin, ancak bunun neden veya nasıl olduğunu görmüyorsunuz.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sürdürülebilir Açık Kaynak"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sürdürülebilir Açık Kaynak"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -203,7 +203,7 @@ Bir proje sorumlusu olarak işiniz, bu durumların tırmanmasını önlemektir. 
   <img class="pquote-avatar" alt="avatar" src="https://avatars.githubusercontent.com/kennethreitz?s=180">
   Bir proje sorumlusu olarak, katılımcılarınıza saygılı olmak son derece önemlidir. Sık sık söylediklerinizi kişisel olarak alırlar.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

@@ -113,6 +113,7 @@ Projekty, które powstały w dużej firmie, takie jak [Go](https://github.com/go
 
 W zależności od osobistych okoliczności możesz spróbować samodzielnie zebrać pieniądze, aby sfinansować swoją pracę typu open source. Na przykład:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon sfinansował swoją pracę [Redux](https://github.com/reactjs/redux) poprzez [kampanię crowdfundingową Patreon](https://redux.js.org/)
 * @andrewgodwin sfinansował prace nad migracjami schematu Django [poprzez kampanię Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 

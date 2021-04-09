@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Votre Code de Conduite
+title: Votre code de conduite
 description: Faciliter un comportement communautaire sain et constructif en adoptant et en appliquant un code de conduite.
 class: coc
 order: 8

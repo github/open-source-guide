@@ -56,7 +56,7 @@ redirect_from: /zh-cn/building-community/
   你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（。。。）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["让开源可持续发展"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["让开源可持续发展"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -203,7 +203,7 @@ redirect_from: /zh-cn/building-community/
   作为一名维护者，尊重你们的贡献者非常重要。他们经常处理一些你们描述亲切的事情。
 
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["保持和善，要么滚蛋"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["保持和善，要么滚蛋"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

@@ -31,8 +31,8 @@ When tests find broken links, try to fix them across all translations. Ideally, 
 
 ### Article updates
 
-We're collecting [tips](https://github.com/github/opensource.guide/issues/1119) on how to check if a translation should be updated to account for improvements made to the English source articles.
+Add the updated text in English to all translations to implicitly solicit pull requests to translate these strings.
 
 ### New articles
 
-New articles are rare! When we have one, we'll probably do [some form](https://github.com/github/opensource.guide/issues/1120) of a call for translations.
+We do not plan on ever adding any new articles.
