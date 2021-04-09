@@ -250,7 +250,7 @@ Baik dokumentasi resmi atau email sehari-hari, gaya penulisan Anda merupakan bag
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Saya berusaha untuk ikut terlibat pada setiap diskusi pada mailing list, dan memberikan contoh panutan, bertindak baik kepada orang-orang, menganggap masalah mereka sebagai sesuatu yang serius, dan berusaha untuk membantu. Setelah beberapa waktu, orang-orang tidak hanya berhenti karena ada masalah, namun juga ikut membantu, dan mereka mengikuti gaya saya.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

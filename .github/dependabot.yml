@@ -1,0 +1,32 @@
+version: 2
+updates:
+- package-ecosystem: bundler
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+    timezone: Europe/Vienna
+  pull-request-branch-name:
+    separator: "-"
+  open-pull-requests-limit: 99
+  rebase-strategy: disabled
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+    timezone: Europe/Vienna
+  pull-request-branch-name:
+    separator: "-"
+  open-pull-requests-limit: 99
+  rebase-strategy: disabled
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+    timezone: Europe/Vienna
+  pull-request-branch-name:
+    separator: "-"
+  open-pull-requests-limit: 99
+  rebase-strategy: disabled

@@ -127,6 +127,7 @@ Aus einer großen Firma stammende Projekte, wie z.B. [Go](https://github.com/gol
 
 Außerdem können Sie versuchen, abhängig von Ihren persönlichen Umständen, selbstständig Geld zu sammeln, um Ihre Open-Source-Arbeit zu finanzieren, zum Beispiel:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon finanzierte seine Arbeit an [Redux](https://github.com/reactjs/redux) mittels einer [Patreon-Crowdfunding-Kampagne](https://redux.js.org/)
 * @andrewgodwin finanzierte Arbeit an Djangos Schemamigrations [mittels einer Kickstarter-Kampagne](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 

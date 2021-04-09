@@ -4,21 +4,21 @@ fr:
     about: A propos
     contribute: Contribuer
   index:
-    lead: Les logiciels libres sont fait par des gens exactement comme vous. Apprennez comment lancer et développer votre projet.
-    opensourcefriday: C'est Vendredi ! Investissez quelques heures en contribuant aux logiciels que vous utilisez et aimez
+    lead: Les logiciels libres sont faits par des gens exactement comme vous. Apprennez comment lancer et développer votre projet.
+    opensourcefriday: C'est vendredi ! Investissez quelques heures en contribuant aux logiciels que vous utilisez et aimez
   article:
-    table_of_contents: Table des Matières
-    back_to_all_guides: Retour a tous les guides
-    related_guides: Guides Liés
+    table_of_contents: Table des matières
+    back_to_all_guides: Retour à tous les guides
+    related_guides: Guides liés
   footer:
     contribute:
       heading: Contribuer
-      description: Vous souhaitez faire une suggestion ? Ce contenu est libre. Aidez nous a l'améliorer.
+      description: Vous souhaitez faire une suggestion ? Ce contenu est libre. Aidez-nous à l'améliorer.
       button: Contribuer
     subscribe:
       heading: Restons en contact
       description: Soyez le premier à découvrir les dernières astuces et ressources concernant les logiciels libres avec GitHub.
-      label: Adresse Email
+      label: Adresse email
       button: S'abonner
     byline:
       # [code], [love], and [github] will be replaced by octicons

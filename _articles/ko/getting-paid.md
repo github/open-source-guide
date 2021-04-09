@@ -101,6 +101,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 마지막으로, 개인적인 상황에 따라, 오픈소스 작업을 위해 독립적으로 돈을 모으는 노력을 할 수 있습니다. 예시:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon은 [Patreon crowdfunding campaign](https://redux.js.org/)을 통해 [Redux](https://github.com/reactjs/redux)에 대한 그의 작업에 펀드했습니다.
 * @andrewgodwin은 Django 스키마 마이그레이션 작업을 [Kickstarter 캠페인을 통해](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 펀드했습니다.
 

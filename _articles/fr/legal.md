@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: Le côté légal de l'Open Source
-description: Tout ce que vous avez jamais osé demandé sur le côté juridique de l'open source, et quelques autres.
+description: Tout ce que vous n'avez jamais osé demander sur le côté juridique de l'Open Source, et quelques autres.
 class: legal
 order: 10
 image: /assets/images/cards/legal.png

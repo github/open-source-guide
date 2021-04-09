@@ -210,7 +210,7 @@ Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bem
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
 
-  Wir haben alle Erfahrungen gemacht, wo wir mit Beleidigungen zu tun hatten, entweder als Betreuer\*in beim Erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) beim Stellen einfacher Frage. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verlinkbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
+  Wir haben alle Erfahrungen gemacht, wo wir mit Beleidigungen zu tun hatten, entweder als Betreuer\*in beim Erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) beim Stellen einer einfachen Frage. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verlinkbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
 
   _We've all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
 
@@ -270,7 +270,7 @@ Egal ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein
   _I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style._
 
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

@@ -106,6 +106,7 @@ Projek yang berasal dari syarikat besar, seperti [Go](https://github.com/golang)
 
 Bergantung pada keadaan peribadi anda, anda boleh mencuba mengumpulkan wang secara bebas untuk membiayai kerja sumber terbuka anda. Sebagai contoh:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon membiayai kerjanya [Redux](https://github.com/reactjs/redux) melalui [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin membiayai kerja migrasi skema Django [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
