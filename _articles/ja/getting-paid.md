@@ -101,6 +101,7 @@ related:
 
 あなた個人の状況によっては、あなた個人でオープンソース活動に資金を出してもらう試みをすることも可能です。例えば：
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon は [Patreon でのクラウドファンディング](https://redux.js.org/)を通じて、 [Redux](https://github.com/reactjs/redux) の活動の資金を得ています。
 * @andrewgodwin は [Kickstarter のキャンペーン](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)を通じて、 Django のスキーママイグレーションの活動の資金を得ています。
 

@@ -34,6 +34,7 @@ buildBooks([
   '_articles/code-of-conduct.md',
   '_articles/metrics.md',
   '_articles/legal.md',
+  '_articles/think-about-security.md',
 ]);
 
 function buildBooks(files) {

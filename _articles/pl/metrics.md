@@ -108,7 +108,7 @@ Przykłady wskaźników społeczności, które warto regularnie śledzić, obejm
 
 ## Działalność maintainera
 
-Wreszcie, będziesz chciał zamknąć pętlę, upewniając się, że opiekunowie twojego projektu są w stanie obsłużyć liczbę otrzymanych wkładów. Ostatnie pytanie, które chcesz sobie zadać, brzmi: _am ja (lub my) odpowiadam na naszą społeczność?_
+Wreszcie, będziesz chciał zamknąć pętlę, upewniając się, że opiekunowie twojego projektu są w stanie obsłużyć liczbę otrzymanych wkładów. Ostatnie pytanie, które chcesz sobie zadać, brzmi: _czy ja (lub my) odpowiadam na naszą społeczność?_
 
 Niereagujący opiekunowie stają się wąskim gardłem dla projektów typu open source. Jeśli ktoś złoży datek, ale nigdy nie usłyszy od opiekuna, może poczuć się zniechęcony i odejść.
 
