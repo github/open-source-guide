@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Starting an Open Source Project
+title: Rozpoczęcie projektu Open Source
 description: Dowiedz się więcej o świecie open source i przygotuj się do uruchomienia własnego projektu.
 class: beginners
 order: 2
@@ -255,7 +255,7 @@ Niezależnie od tego, czy jest to oficjalna dokumentacja, czy zwykły e-mail, st
   I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
   </i>
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -274,28 +274,28 @@ Gotowy do otwarcia twojego projektu? Oto lista kontrolna, która pomoże. Zaznac
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    Projekt posiada plik LICENSE z licencją typu open source
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    Projekt posiada podstawową dokumentację (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    Nazwa jest łatwa do zapamiętania, daje pewne wyobrażenie o tym, czym jest projekt i nie koliduje z istniejącym projektem oraz nie narusza znaków towarowych
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    Lista "issue" jest aktualna, a sprawy są przejrzyście uporządkowane i opatrzone etykietami
   </label>
 </div>
 
@@ -304,21 +304,21 @@ Gotowy do otwarcia twojego projektu? Oto lista kontrolna, która pomoże. Zaznac
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    Projekt wykorzystuje spójne konwencje kodu i przejrzyste nazwy funkcji, metod oraz zmiennych
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    Kod jest dobrze skomentowany, dokumentując intencje i skrajne przypadki
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    W historii zmian, w problemach lub Pull Request nie ma żadnych poufnych materiałów (na przykład haseł lub innych niepublicznych informacji)
   </label>
 </div>
 
@@ -329,7 +329,7 @@ Jeśli jesteś osobą fizyczną:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Rozmawiałeś z działem prawnym i/lub rozumiesz zasady dotyczące własności intelektualnej i zasad dotyczące oprogramowania open source (jeśli jesteś zatrudniony)
   </label>
 </div>
 
@@ -338,28 +338,28 @@ Jeśli jesteś firmą lub organizacją:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    Rozmawiałeś ze swoim działem prawnym
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Masz plan marketingowy, aby ogłosić i promować swój projekt
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Ktoś jest zaangażowany w zarządzanie interakcjami społeczności (odpowiadanie na problemy, przeglądanie i łączenie pull requests)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Przynajmniej dwie osoby mają dostęp administracyjny do projektu
   </label>
 </div>
 

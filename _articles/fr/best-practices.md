@@ -1,7 +1,7 @@
 ---
 lang: fr
-title: Bonnes Pratiques pour les Responsables
-description: Facilitez vous la vie en tant que responsable open source, de la documentation des processus à l'exploitation de votre communauté.
+title: Bonnes pratiques pour les responsables
+description: Facilitez-vous la vie en tant que responsable Open Source, de la documentation des processus à l'exploitation de votre communauté.
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
