@@ -249,7 +249,7 @@ Projenizin ömrü boyunca birçok yazı yazacaksınız: README'ler, öğretici b
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Posta listesindeki her konuya katılmaya ve örnek davranış göstermeye, insanlara iyi davranmaya, sorunlarını ciddiye almaya ve genel olarak yardımcı olmaya çalıştım. Bir süre sonra, insanlar sadece soru sormakla kalmayıp aynı zamanda yanıtlamada da yardımcı olmak için tarzımı taklit ettiler.
   <p markdown="1" class="pquote-credit">
-— [CouchDB](https://github.com/apache/couchdb)'deki @janl, ["Sürdürülebilir Açık Kaynak"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— [CouchDB](https://github.com/apache/couchdb)'deki @janl, ["Sürdürülebilir Açık Kaynak"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

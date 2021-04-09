@@ -106,6 +106,7 @@ Mevcut işvereninizi açık kaynak çalışmasına öncelik vermeye ikna edemiyo
 
 Kişisel durumunuza bağlı olarak, açık kaynaklı işinize para yatırmak için bağımsız olarak para toplamayı deneyebilirsiniz. Örneğin:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon, [Redux](https://github.com/reactjs/redux) ile ilgili çalışmalarını bir [Patreon kitlesel fonlama kampanyası](https://redux.js.org/) yoluyla finanse etti
 * @andrewgodwin [, bir Kickstarter kampanyasıyla](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) Django şema göçleri konusundaki çalışmaları finanse etti
 

@@ -54,7 +54,7 @@ Encourager les autres contributeurs est un investissement en vous aussi. Lorsque
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Avez-vous déjà assisté à un événement (technique) où vous ne connaissiez personne, mais tout le monde semblait se tenir en groupe et discuter comme de vieux amis? (...) Maintenant, imaginez que vous voulez contribuer à un projet open source, mais vous ne voyez pas pourquoi ou comment cela se passe.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -198,7 +198,7 @@ Votre travail en tant que mainteneur consiste à éviter l'escalade de ces situa
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   En tant que responsable du projet, il est extrêmement important d'être respectueux envers vos contributeurs. Ils prennent souvent ce que vous dites très personnellement.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
