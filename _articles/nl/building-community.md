@@ -43,8 +43,9 @@ Begin met uw documentatie:
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Bijdragen aan open source is voor sommigen gemakkelijker dan voor anderen. Er is veel angst om te worden uitgescholden omdat ze iets niet goed doen of gewoon niet passen. (...) Door bijdragers een plek te geven om bij te dragen met een zeer lage technische vaardigheid (documentatie, afwaardering van webinhoud, enz.), Kunt u aanzienlijk verminderen die zorgen.
-  
+
   _Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns._
+
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Een bijdrage leveren in moderne open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
@@ -59,10 +60,11 @@ Andere bijdragers aanmoedigen is ook een investering in uzelf. Als u uw grootste
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Ben je ooit naar een (tech-) evenement geweest waar je niemand kende, maar iedereen leek in groepen te staan en te chatten als oude vrienden? (...) Stel je nu voor dat je wilt bijdragen aan een open source-project, maar je begrijpt niet waarom of hoe dit gebeurt.
-  
+
   _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
+
   <p markdown="1" class="pquote-credit">
-— @janl, ["Duurzame open source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Duurzame open source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -123,8 +125,9 @@ Doe je best om een nultolerantiebeleid te voeren ten aanzien van dit soort mense
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   De waarheid is dat het hebben van een ondersteunende gemeenschap de sleutel is. Ik zou dit werk nooit kunnen doen zonder de hulp van mijn collega's, vriendelijke internetvreemdelingen en spraakzame IRC-kanalen. (...) Neem geen genoegen met minder. Neem geen genoegen met klootzakken.
-  
+
   _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
+
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
@@ -189,8 +192,9 @@ Hoewel je misschien niet altijd iemand vindt om de oproep te beantwoorden, vergr
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Het is in uw belang\] om bijdragers te werven die plezier hebben en die in staat zijn om de dingen te doen die u niet bent. Houd je van coderen, maar beantwoord je geen problemen? Identificeer vervolgens die personen in uw gemeenschap die dat wel doen en laat ze het hebben.
-  
+
   _\[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it._
+
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Gastvrije gemeenschappen"](http://hood.ie/blog/welcoming-communities.html)
   </p>
@@ -213,10 +217,11 @@ Het is jouw taak als onderhouder om te voorkomen dat deze situaties escaleren. Z
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Als projectonderhouder is het uiterst belangrijk om respectvol te zijn voor uw bijdragers. Ze vatten wat je zegt vaak heel persoonlijk op.
-  
+
   _As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally._
+
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Wees hartelijk of ga op weg"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Wees hartelijk of ga op weg"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -241,8 +246,9 @@ In het kader van een proces voor het zoeken naar consensus, bespreken leden van 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Een deel van de reden waarom er geen stemsysteem bestaat voor Atom Issues is dat het Atom-team niet in alle gevallen een stemsysteem gaat volgen. Soms moeten we kiezen wat we vinden dat juist is, zelfs als het niet populair is. (...) Wat ik kan bieden en beloven te doen ... is dat het mijn taak is om naar de gemeenschap te luisteren.
-  
+
   _Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community._
+
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's besluitvormingsproces](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
@@ -269,8 +275,9 @@ Als een gesprek duidelijk nergens heen gaat, er geen duidelijke acties kunnen wo
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Een draad naar bruikbaarheid leiden zonder opdringerig te zijn, is een kunst. Het zal niet werken om mensen simpelweg te vermanen om te stoppen met het verspillen van hun tijd, of om hen te vragen niet te posten tenzij ze iets constructiefs te melden hebben. (...) In plaats daarvan moet je voorwaarden stellen voor verdere vooruitgang: geef mensen een route, een pad om te volgen dat leidt tot de resultaten die je wilt, maar zonder dat het lijkt alsof je gedrag dicteert.
-  
+
   _Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct._
+
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_OSS Produceren_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>

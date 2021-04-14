@@ -251,7 +251,7 @@ redirect_from: /zh-tw/starting-a-project/
   <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
   我嘗試處理每一個細節，包括：處理郵件，展示示例，友好待人，認真處理大家的issues以及試圖幫助到大家。經過一段時間後，大家可能不再是只問問題，還會幫助我解決其他人的疑問以及給我喜悅，他們模仿我的風格。
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

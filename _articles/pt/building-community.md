@@ -54,7 +54,7 @@ Encorajar outros contribuidores é, também, um investimento em si mesmo. Quando
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Você alguma vez já esteve presente em um evento (de tecnologia), onde não conhecia ninguém, porém o restante das pessoas parecia se reunir em grupos e batiam papo como velhos amigos? (...) Agora imagine que você quer contribuir em um projeto open source, mas não consegue enxergar por que ou como isso está acontecendo.
   <p markdown="1" class="pquote-credit">
-  — @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+  — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -196,7 +196,7 @@ Seu trabalho como um mantenedor é prevenir que tais situações cresçam, escal
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Como um mantenedor de projeto, é extremamente importante ser respeitoso para com seus contribuidores. Eles frequentemente levam o que você fala para o lado pessoal.
   <p markdown="1" class="pquote-credit">
-  — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+  — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

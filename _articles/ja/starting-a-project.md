@@ -243,7 +243,7 @@ README に CONTRIBUTING ファイルへのリンクをすることで、より�
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   メーリングリストのすべてのスレッドに関わるようにしましたし、模範的な行動を示し、人々に親切にし、イシューを真剣に捉え、何より助けになるようにしました。しばらくすると、人々は質問をするだけでなく、質問に答えたり、何よりも嬉しいことに私のスタイルを真似してくれたのです。
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

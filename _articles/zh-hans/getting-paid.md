@@ -102,6 +102,7 @@ redirect_from: /zh-cn/getting-paid/
 
 当然最终还是要看你自身的条件而定，你甚至可以利用你的开源项目来独立的进行融资。这边就有几个案例：
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon 通过 [Patreon crowdfunding campaign](https://redux.js.org/) 为他的项目 [Redux](https://github.com/reactjs/redux) 成功的融到了资金。
 * @andrewgodwin [通过 Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 为 Django schema 迁移拿到了资金
 

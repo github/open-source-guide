@@ -54,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   நீங்கள் யாரையும் தெரியாத இடத்தில் (தொழில்நுட்ப-) நிகழ்வில் எப்போதாவது இருந்திருக்கிறீர்களா, ஆனால் எல்லோரும் குழுக்களில் நின்றுக்கொண்டு பழைய நண்பர்களைப் போல் அரட்டை அடிக்கிறார்களா? (...) Nஇப்போது நீங்கள் ஒரு திறந்த மூல திட்டத்தில் பங்களிப்பு செய்ய விரும்புகிறீர்கள் என்று கற்பனை செய்யுங்கள், ஆனால் இது ஏன் அல்லது எப்படி நடக்கிறது என்பதை நீங்கள் பார்க்கவில்லை.
   <p markdown="1" class="pquote-credit">
-— @janl, ["நிலையான திறந்த மூலம்"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["நிலையான திறந்த மூலம்"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -198,7 +198,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   ஒரு திட்டம் பராமரிப்பாளராக, உங்களுக்கு பங்களிப்பவர்களுக்கு மரியாதை கொடுத்தல் மிகவும் முக்கியம். அவர்கள் அடிக்கடி நீங்கள் தனிப்பட்ட முறையில் என்ன சொல்கிறீர்கள் என்பதை எடுத்துக்கொள்கிறார்கள்.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["உள்ளன்புள்ள அல்லது தனிவழியாக இருத்தல்"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["உள்ளன்புள்ள அல்லது தனிவழியாக இருத்தல்"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
