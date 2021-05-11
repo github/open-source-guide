@@ -1,0 +1,44 @@
+---
+layout: index
+lang: en
+---
+indexnext | PyPA » PyPA documentation » Python Packaging Authority
+
+  
+quynhthibanh@gmail.com
+|
+
+Python Packaging Authority
+
+The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging.
+
+The software developed through the PyPA is used to package, share, and install Python software and to interact with indexes of downloadable Python software such as PyPI, the Python Package Index. Click the logo below to download pip, the most prominent software used to interact with PyPI.
+
+The PyPA publishes the Python Packaging User Guide, which is the authoritative resource on how to package, publish, and install Python projects using current tools. The User Guide provides a user introduction to packaging, and explains how to use these tools. In case you need to package Python with other languages (for example, in a scientific Python package), the user guide also offers basic information about and links to available third-party packaging options (for example, conda-forge).
+
+For a listing of PyPA’s important projects, see the key projects list. The PyPA hosts projects on GitHub and Bitbucket, and discusses issues in the Packaging category on discuss.python.org and on the distutils-sig mailing list.
+
+For a user introduction to packaging, see the Python Packaging User Guide
+
+PyPA GoalsPyPA SpecificationsPyPA RoadmapHow to HelpPresentations & ArticlesPackaging HistoryPyPA Members, And How To JoinCode of Conduct
+
+«
+
+indexnext | PyPA » PyPA documentation » Python Packaging Authority
+
+  
+
+|
+
+© Copyright 2020, PyPA.
+This page is licensed under the Python Software Foundation License Version 2.
+Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License.
+See History and License for more information.
+
+The Python Software Foundation is a non-profit corporation. Please donate.
+
+Last updated on Apr 25, 2021. Found a bug?
+Created using Sphinx 3.1.2.
+
+  v: latest 
+
