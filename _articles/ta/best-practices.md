@@ -261,7 +261,7 @@ related:
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   WP-CLI ஐ பராமரிப்பதில், முதலில் நான் மகிழ்ச்சியடைந்தேன், என் ஈடுபாட்டின் மீது தெளிவான எல்லைகளை அமைத்தேன். என் சாதாரண பணி அட்டவணையின் ஒரு பகுதியாக, வாரத்திற்கு 2-5 மணிநேரத்தை நான் கண்டிருக்கிறேன். இது என் ஈடுபாடு ஒரு உணர்வு, மற்றும் மிகவும் வேலை உணர்கிறேன் இருந்து வைத்திருக்கிறது. நான் பணிபுரியும் பிரச்சினைகளுக்கு முன்னுரிமை அளிப்பதால், மிக முக்கியமானது என்னவென்று நான் நினைக்கிறேன். நான் பணிபுரியும் பிரச்சினைகளுக்கு முன்னுரிமை அளிப்பதால், நான் மிகவும் முக்கியம் என நினைப்பதில் நான் தொடர்ந்து முன்னேற்றம் செய்ய முடிகிறது.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["என் இரங்கல்கள், நீங்கள் இப்போது ஒரு பிரபலமான திறந்த மூல திட்டத்தின் பராமரிப்பாளர்"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["என் இரங்கல்கள், நீங்கள் இப்போது ஒரு பிரபலமான திறந்த மூல திட்டத்தின் பராமரிப்பாளர்"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

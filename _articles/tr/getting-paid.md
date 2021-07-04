@@ -106,6 +106,7 @@ Mevcut işvereninizi açık kaynak çalışmasına öncelik vermeye ikna edemiyo
 
 Kişisel durumunuza bağlı olarak, açık kaynaklı işinize para yatırmak için bağımsız olarak para toplamayı deneyebilirsiniz. Örneğin:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon, [Redux](https://github.com/reactjs/redux) ile ilgili çalışmalarını bir [Patreon kitlesel fonlama kampanyası](https://redux.js.org/) yoluyla finanse etti
 * @andrewgodwin [, bir Kickstarter kampanyasıyla](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) Django şema göçleri konusundaki çalışmaları finanse etti
 
@@ -138,7 +139,7 @@ Projenize bağlı olarak, ticari destek, barındırılan seçenekler veya ek öz
 * **[Travis CI](https://github.com/travis-ci)** ürünlerinin ücretli sürümlerini sunuyor
 * **[Ghost](https://github.com/TryGhost/Ghost)** ücretli bir yönetim servisi olan kar amacı gütmeyen bir kurumdur.
 
-[Npm](https://github.com/npm/npm) ve [Docker](https://github.com/docker/docker) gibi bazı popüler projeler iş büyümelerini desteklemek için risk sermayesini desteği arıyorlar.
+[Npm](https://github.com/npm/cli) ve [Docker](https://github.com/docker/docker) gibi bazı popüler projeler iş büyümelerini desteklemek için risk sermayesini desteği arıyorlar.
 
 ### Hibe fonu için başvur
 

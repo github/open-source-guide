@@ -113,6 +113,7 @@ Projekty, które powstały w dużej firmie, takie jak [Go](https://github.com/go
 
 W zależności od osobistych okoliczności możesz spróbować samodzielnie zebrać pieniądze, aby sfinansować swoją pracę typu open source. Na przykład:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon sfinansował swoją pracę [Redux](https://github.com/reactjs/redux) poprzez [kampanię crowdfundingową Patreon](https://redux.js.org/)
 * @andrewgodwin sfinansował prace nad migracjami schematu Django [poprzez kampanię Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -146,7 +147,7 @@ W zależności od projektu możesz być w stanie pobierać opłaty za wsparcie k
 * **[Travis CI](https://github.com/travis-ci)** oferuje płatne wersje swojego produktu
 * **[Ghost](https://github.com/TryGhost/Ghost)** jest organizacją non-profit z płatną usługą zarządzaną
 
-Niektóre popularne projekty, takie jak [npm](https://github.com/npm/npm) oraz [Docker](https://github.com/docker/docker), nawet pozyskały kapitał wysokiego ryzyka w celu wsparcia rozwoju ich działalności.
+Niektóre popularne projekty, takie jak [npm](https://github.com/npm/cli) oraz [Docker](https://github.com/docker/docker), nawet pozyskały kapitał wysokiego ryzyka w celu wsparcia rozwoju ich działalności.
 
 ### Złóż wniosek o dofinansowanie
 

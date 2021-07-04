@@ -101,6 +101,7 @@ related:
 
 இறுதியாக, உங்களுடைய தனிப்பட்ட சூழ்நிலைகளை பொறுத்து, நீங்கள் உங்கள் திறந்த மூல வேலைக்கு நிதி திரட்ட முயற்சி செய்யலாம். உதாரணத்திற்கு:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon  தனது [Redux](https://github.com/reactjs/redux) திட்டத்திற்கான நிதியை [பேட்ரியன் கூட்டல் நிதி பிரச்சாரத்தின்](https://redux.js.org/) மூலம் திரட்டினார்.
 * @andrewgodwin  டிஜாங்க் திட்ட அமைப்புமுறைகளை [kickstarter பிரச்சாரத்தின்](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) மூலம் திரட்டினார்.
 
@@ -129,7 +130,7 @@ related:
 * **[டிராவிஸ் சிஐ](https://github.com/travis-ci)** அதன் தயாரிப்பின் கட்டண பதிப்புகள் வழங்குகிறது
 * **[கோஸ்ட்](https://github.com/TryGhost/Ghost)** ஒரு இலாப நோக்கமற்றத பணம் செலுத்திய நிர்வகிக்கப்பட்ட சேவை
 
-[என்பிஎம்](https://github.com/npm/npm) and [டாக்கர்](https://github.com/docker/docker), போன்ற சில பிரபலமான திட்டங்கள், தங்கள் வணிக வளர்ச்சியை ஆதரிப்பதற்காக துணிகர மூலதனத்தை அதிகரிக்கின்றன.
+[என்பிஎம்](https://github.com/npm/cli) and [டாக்கர்](https://github.com/docker/docker), போன்ற சில பிரபலமான திட்டங்கள், தங்கள் வணிக வளர்ச்சியை ஆதரிப்பதற்காக துணிகர மூலதனத்தை அதிகரிக்கின்றன.
 
 ### மானிய நிதிக்கு விண்ணப்பிக்கவும்
 

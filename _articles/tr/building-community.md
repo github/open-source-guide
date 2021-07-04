@@ -59,7 +59,7 @@ Diğer katılımcıları teşvik etmek kendinize yapılan bir yatırımdır. En 
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Hiç kimseyi tanımadığınız (teknoloji) bir etkinliğe katıldınız mı, ama diğerleri gruplarda durup eski arkadaşlar gibi sohbet ettiler mi? (...) Şimdi açık kaynaklı bir projeye katkıda bulunmak istediğinizi hayal edin, ancak bunun neden veya nasıl olduğunu görmüyorsunuz.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sürdürülebilir Açık Kaynak"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sürdürülebilir Açık Kaynak"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -127,7 +127,7 @@ Bu tür insanlara karşı sıfır tolerans politikası benimsemek için elinizde
 
 Projenizin önemsiz yönleriyle ilgili düzenli tartışmalar, sizin de dahil olmak üzere diğerlerini önemli görevlere odaklanmaktan alıkoyuyor. Projenize gelen yeni insanlar bu konuşmaları görebilir ve katılmak istemeyebilir.
 
-Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#davran%C4%B1%C5%9F-kural-listesini-g%C3%BC%C3%A7lendirmek) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
+Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#davran%C4%B1%C5%9F-kurallar%C4%B1n%C4%B1z%C4%B1-g%C3%BC%C3%A7lendirmek) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
 
 ### Katkıda bulunan katılımcılarla oldukları yerde tanışın
 
@@ -203,7 +203,7 @@ Bir proje sorumlusu olarak işiniz, bu durumların tırmanmasını önlemektir. 
   <img class="pquote-avatar" alt="avatar" src="https://avatars.githubusercontent.com/kennethreitz?s=180">
   Bir proje sorumlusu olarak, katılımcılarınıza saygılı olmak son derece önemlidir. Sık sık söylediklerinizi kişisel olarak alırlar.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

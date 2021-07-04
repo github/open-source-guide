@@ -101,10 +101,11 @@ Projetos que se originaram em uma grande empresa, como o [Go](https://github.com
 
 Dependendo de suas circunstâncias pessoais, você pode tentar conseguir dinheiro independentemente para financiar o seu trabalho open source. Por exemplo:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon financiou seu trabalho no [Redux](https://github.com/reactjs/redux) através de uma [campanha de crowdfunding no Patreon](https://redux.js.org/)
 * @andrewgodwin financiou seu trabalho no Django schema migrations [através de uma campanha no Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finalmente, as vezes, projetos open source põem recompensas em issues que você pode considerar ajudar a resolver. 
+Finalmente, as vezes, projetos open source põem recompensas em issues que você pode considerar ajudar a resolver.
 
 * @ConnorChristie conseguiu ser pago por [ajudar](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol a trabalhar em sua biblioteca JavaScript [através de uma recompensa em gitcoin](https://gitcoin.co/).
 * @mamiM fez traduções para o Japonês para @MetaMask após a [issue ser financiada na Bounties Network](https://explorer.bounties.network/bounty/134).
@@ -134,7 +135,7 @@ Dependendo do seu projeto, você pode ser capaz de cobrar por suporte comercial,
 * **[Travis CI](https://github.com/travis-ci)** oferece versões pagas de seu produto
 * **[Ghost](https://github.com/TryGhost/Ghost)** é uma organização sem fins lucrativos, com um serviço gerenciado pago
 
-Alguns projetos populares, como o [npm](https://github.com/npm/npm) e o [Docker](https://github.com/docker/docker), conseguem até mesmo capital de risco para dar suporte ao crescimento de seu negócio.
+Alguns projetos populares, como o [npm](https://github.com/npm/cli) e o [Docker](https://github.com/docker/docker), conseguem até mesmo capital de risco para dar suporte ao crescimento de seu negócio.
 
 ### Solicite financiamento de subsídio
 

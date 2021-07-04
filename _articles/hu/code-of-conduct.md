@@ -31,7 +31,7 @@ Az elvárásaid mellett a magatartási kódex az alábbiakat írja még le:
 
 Lehetőség szerint használj már létező, publikus dokumentumot. A [Contributor Covenant](https://contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet már több mint 40,000 nyílt forráskódú projekt használ, mint például a Kubernetes, Rails, és a Swift.
 
-A [Django Code of Conduct](https://www.djangoproject.com/conduct/) és a [Citizen Code of Conduct](http://citizencodeofconduct.org/) szintén nagyon jó minták.
+A [Django Code of Conduct](https://www.djangoproject.com/conduct/) és a [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) szintén nagyon jó minták.
 
 Helyezd el a CODE_OF_CONDUCT állomány a projekt gyökérkönyvtárában, és hivatkozd meg őket a CONTRIBUTING és README állományokból, hogy mindenkinek látható legyen.
 

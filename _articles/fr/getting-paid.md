@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: Etre payé pour faire de l'Open Source
-description: Soutenez votre travail en open source en obtenant un soutien financier pour votre temps ou votre projet.
+description: Soutenez votre travail en Open Source en obtenant un soutien financier pour votre temps ou votre projet.
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -101,6 +101,7 @@ Les projets provenant d'une grande entreprise, tels que [Go](https://github.com/
 
 Enfin, en fonction de votre situation personnelle, vous pouvez essayer de collecter des fonds de manière indépendante pour financer votre travail open source. Par exemple :
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon a fait financer son travail sur [Redux](https://github.com/reactjs/redux) via une [campagne de crowdfunding sur Patreon](https://redux.js.org/)
 * @andrewgodwin a fait financer le travail sur les migrations de schémas Django [à travers une campagne Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -129,7 +130,7 @@ En fonction de votre projet, vous pouvez facturer un support commercial, des opt
 * **[Travis CI](https://github.com/travis-ci)** offre des versions payantes de son produit
 * **[Ghost](https://github.com/TryGhost/Ghost)** est un organisme à but non lucratif avec un service géré payant
 
-Certains projets populaires, tels que [npm](https://github.com/npm/npm) et [Docker](https://github.com/docker/docker), permettent même de lever du capital-risque pour soutenir la croissance de leur entreprise.
+Certains projets populaires, tels que [npm](https://github.com/npm/cli) et [Docker](https://github.com/docker/docker), permettent même de lever du capital-risque pour soutenir la croissance de leur entreprise.
 
 ### Demande de financement
 

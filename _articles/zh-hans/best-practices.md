@@ -255,7 +255,7 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   我是 WP-CLI 的维护者，我发现我需要首先让自己开心，在开源项目和其他事情之间设定清楚的界限。我发现最好的平衡点就是每周在日常的工作安排中花 2-5 小时在这上面。这会让我从感觉太累到保持持续的激情。因为我给我需要解决的 issue 标上了优先级，从而我能够在我认为重要的事情上有所进展。
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["我的悼文，你现在是一个非常流行的项目的维护者"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["我的悼文，你现在是一个非常流行的项目的维护者"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

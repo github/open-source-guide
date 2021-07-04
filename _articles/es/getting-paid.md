@@ -101,6 +101,7 @@ Proyectos que se originaron en una empresa grande, como [Go](https://github.com/
 
 Finalmente, dependiendo de tus circunstancias personales, puedes probar generar dinero de forma independiente para financiar tu trabajo de c&oacute;digo abierto. Por ejemplo:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campa&ntilde;a kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -129,7 +130,7 @@ Dependiendo de tu proyecto, puede que seas capaz de cobrar por soporte comercial
 * **[Travis CI](https://github.com/travis-ci)** ofrece versiones pagas de su producto.
 * **[Ghost](https://github.com/TryGhost/Ghost)** es sin fines de lucro con una gesti&oacute;n de servicio paga.
 
-Algunos proyectos populares, como [npm](https://github.com/npm/npm) y [Docker](https://github.com/docker/docker), generan capital de riesgo para soportar el crecimiento de su negocio.
+Algunos proyectos populares, como [npm](https://github.com/npm/cli) y [Docker](https://github.com/docker/docker), generan capital de riesgo para soportar el crecimiento de su negocio.
 
 ### Suscr&iacute;bete a subvenciones
 

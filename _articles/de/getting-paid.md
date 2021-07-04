@@ -127,6 +127,7 @@ Aus einer großen Firma stammende Projekte, wie z.B. [Go](https://github.com/gol
 
 Außerdem können Sie versuchen, abhängig von Ihren persönlichen Umständen, selbstständig Geld zu sammeln, um Ihre Open-Source-Arbeit zu finanzieren, zum Beispiel:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon finanzierte seine Arbeit an [Redux](https://github.com/reactjs/redux) mittels einer [Patreon-Crowdfunding-Kampagne](https://redux.js.org/)
 * @andrewgodwin finanzierte Arbeit an Djangos Schemamigrations [mittels einer Kickstarter-Kampagne](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -156,7 +157,7 @@ Abhängig von Ihrem Projekt können Sie kommerziellen Support, gehostete Optione
 * **[Travis CI](https://github.com/travis-ci)** bietet Bezahlversionen ihres Dienstes
 * **[Ghost](https://github.com/TryGhost/Ghost)** ist ein Non-Profit mit Bezahldiensten
 
-Einige populäre Projekte, wie z.B. [npm](https://github.com/npm/npm) und [Docker](https://github.com/docker/docker), sammeln sogar Wagniskapital ein, um ihr Wachstum zu unterstützen.
+Einige populäre Projekte, wie z.B. [npm](https://github.com/npm/cli) und [Docker](https://github.com/docker/docker), sammeln sogar Wagniskapital ein, um ihr Wachstum zu unterstützen.
 
 ### Fördermittel beantragen
 

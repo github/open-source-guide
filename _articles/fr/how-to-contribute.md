@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: Comment contribuer à l'Open Source
-description: Vous voulez contribuer à l'open source ? Un guide pour faire des contributions open source, pour les débutants et pour les vétérans.
+description: Vous voulez contribuer à l'Open Source ? Un guide pour faire des contributions Open Source, pour les débutants et pour les vétérans.
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
@@ -217,7 +217,7 @@ Vous pouvez également utiliser l'une des ressources suivantes pour vous aider �
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Une checklist avant de contribuer
 
@@ -428,10 +428,6 @@ Avant d'ouvrir une issue ou une pull request, ou de poser une question dans une 
 > 😢 _"Pourquoi ne soutenez-vous pas mon cas d'utilisation ? C'est inacceptable !"_
 
 **Surtout, gardez-le classique.** L'open source est composé de collaborateurs du monde entier. Le contexte se perd dans les langues, les cultures, les zones géographiques et les fuseaux horaires. De plus, la communication écrite rend plus difficile la transmission d'un ton ou d'une humeur. Supposer de bonnes intentions dans ces conversations. Il est bon de repousser poliment une idée, de demander plus de contexte ou de clarifier davantage votre position. Juste essayer de laisser l'Internet un meilleur endroit que lorsque vous l'avez trouvé.
-
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
->
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
 
 ### Rassembler le contexte
 

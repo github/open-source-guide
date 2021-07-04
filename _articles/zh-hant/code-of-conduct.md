@@ -32,7 +32,7 @@ redirect_from: /zh-tw/code-of-conduct/
 
 無論你們在哪裏，請使用已有的行爲守則。[貢獻者盟約](http://contributor-covenant.org/)是一個被超過40，000個開源專案（包括Kubernetes, Rails和Swift）所使用的行爲守則。
 
-[Django行爲守則](https://www.djangoproject.com/conduct/)和[Citizen行爲守則](http://citizencodeofconduct.org/)都是非常好的行爲守則。
+[Django行爲守則](https://www.djangoproject.com/conduct/)和[Citizen行爲守則](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/)都是非常好的行爲守則。
 
 請將CODE_OF_CONDUCT文件放在你們專案的根目錄，並在README中附上其鏈接，這樣對你們的社群是可見的。
 
@@ -71,7 +71,7 @@ redirect_from: /zh-tw/code-of-conduct/
 
 有的社群成員可能是讓大家一直不舒服的慣犯，或者他們只是說了或做了一次。這都需要依據實際情況進行處理。
 
-在你們做出迴應之前，請認真思考發生了什麼事。通過閱讀他們過去的評論和對話可以更好地理解他們爲什麼要那樣做。儘量收集其他人對他們行爲的看法。
+在你們做出回應之前，請認真思考發生了什麼事。通過閱讀他們過去的評論和對話可以更好地理解他們爲什麼要那樣做。儘量收集其他人對他們行爲的看法。
 
 <aside markdown="1" class="pquote">
   不要陷入爭論。在你們處理完手頭上的事情之前，不要側重於處理別人的行爲。專注於你們需要什麼。
@@ -86,7 +86,7 @@ redirect_from: /zh-tw/code-of-conduct/
 
 當有人報告違規時，處理它是你們的工作，而不是他們的。有時，報告者透露他們的資訊會給他們的職業生涯，聲譽和人生安全帶來很大的風險。迫使報告者面對騷擾者會將他們置於妥協的位置。除非報告者有特別的要求，你們應該直接和有問題的人溝通。
 
-這裏有些方法幫助你們迴應違規行爲：
+這裏有些方法幫助你們回應違規行爲：
 
 * **向相關人員發出公開警告**以及解釋他們的行爲產生了怎樣的負面影響，最好在發生問題的地方。在可能的情況下，公開溝通會向社群的其他人傳達你們認真對待行爲守則。要友善，但堅定的溝通。
 

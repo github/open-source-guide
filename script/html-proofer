@@ -7,6 +7,9 @@ url_ignores = [
   "https://okdistribute.xyz/post/okf-de",
   "https://www.drupal.org/community-initiatives/drupal-core/usability",
   "https://scripts.sil.org/ofl",
+  "https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/",
+  %r{^https?://twitter\.com/},
+  %r{^https?://(www\.)?kickstarter\.com/},
 ]
 
 HTMLProofer::Runner.new(

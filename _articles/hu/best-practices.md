@@ -265,7 +265,7 @@ Mint minden más munka esetén a rendszeres pihenők tartása felfrissít, boldo
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   A WP-CLI fenntartása során felfedeztem, hogy előbb boldoggá kell tennem magam, és egyértelmű határokat kell meghúznom. A legjobb egyensúlyt számomra a hetente 2-5 óra biztosította, a normál munkám részeként. Ez megőrzi a szenvedélyemet és nem érzem azt, hogy túl sokat dolgoztam volna. Mivel priorizálom a munkákat amelyeken dolgozom, így normálisan haladok a véleményem szerint legfontosabb dolgokkal.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Fogadd részvétem, mert Te most egy népszerű, nyílt forráskódú projekt karbantartója lettél"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Fogadd részvétem, mert Te most egy népszerű, nyílt forráskódú projekt karbantartója lettél"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

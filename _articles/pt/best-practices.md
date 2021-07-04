@@ -261,7 +261,7 @@ Assim como qualquer outro tipo de trabalho, fazer pausas regulares manterão voc
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Na manutenção do WP-CLI, descobri que preciso me tornar feliz primeiro e estabelecer limites claros sobre meu envolvimento. O melhor equilíbrio que encontrei é 2-5 horas por semana, como parte de meu horário normal de trabalho. Isso mantém meu envolvimento uma paixão, e longe de me sentir como se estivesse no trabalho. Devido a priorização dos problemas que estou trabalhando, posso fazer progressos regulares naquilo que penso ser mais importante.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

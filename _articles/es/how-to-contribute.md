@@ -193,7 +193,7 @@ Finalmente, los proyectos de c&oacute;digo abierto utilizan las siguientes herra
 
 ¡Ahora que ya has descubierto c&oacute;mo funcionan los proyectos de c&oacute;digo abierto, es tiempo de encontrar un proyecto con el que contribuir!
 
-Si nunca antes contribuiste al c&oacute;digo abierto, acepta algunos consejos del presidente de los Estados Unidos, John F. Kennedy, quien una vez dijo, _"No preguntes qu&eacute; es lo que tu pa&iacute;s puede hacer por ti;, preg&uacute;ntate qu&eacute; es lo que t&uacute; puedes hacer por &eacute;l"_
+Si nunca antes contribuiste al c&oacute;digo abierto, acepta algunos consejos del presidente de los Estados Unidos, John F. Kennedy, quien una vez dijo, _"No preguntes qu&eacute; es lo que tu pa&iacute;s puede hacer por ti; preg&uacute;ntate qu&eacute; es lo que t&uacute; puedes hacer por &eacute;l"_
 
 Las contribuciones al c&oacute;digo abierto ocurren en todos los niveles a lo largo de los proyectos. No necesitas pensar demasiado cu&aacute;l ser&aacute; tu primera colaboraci&oacute;n, o c&oacute;mo se ver&aacute;.
 
@@ -217,7 +217,7 @@ Puedes tambi&eacute;n utilizar algunos de los siguientes recursos para ayudarte 
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Una lista de verificaci&oacute;n antes de que contribuyas
 
@@ -474,7 +474,7 @@ Usualmente deber&iacute;as abrir un pull request en las siguientes situaciones:
 
 Un pull request no representa trabajo terminado. Usualmente es mejor abrir un pull request de forma temprana, de manera que otros puedan observar o dar retroalimentaci&oacute;n a tu progreso. Solo m&aacute;rcalo como "trabajo en proceso" (WIP por sus siglas en ingl&eacute;s, work in progress) en la l&iacute;nea del tema. Siempre puedes agregar m&aacute;s commits despu&eacute;s.
 
-Si el proyecto est&aacute; alojado en GITHUb, ac&aacute; te explicamos los pasos para enviar un pull request:
+Si el proyecto est&aacute; alojado en GITHUB, ac&aacute; te explicamos los pasos para enviar un pull request:
 
 * **[Abre un fork del repositorio](https://guides.github.com/activities/forking/)** y haz un clon local. Conecta tu repositorio local con el repositorio "superior" original agreg&aacute;ndolo como remoto. Descarga los cambios desde el repositorio superior con frecuencia de manera que puedas mantener al d&iacute;a, de forma que cuando tu env&iacute;es tu pull request, sea menos probable que haya conflictos. (ver m&aacute;s instrucciones detalladas [aqu&iacute;](https://help.github.com/articles/syncing-a-fork/).)
 * **[Crea una rama](https://guides.github.com/introduction/flow/)** para tus ediciones.
@@ -505,7 +505,7 @@ Si haces una llamada educada y todav&iacute;a nadie responde, es posible que nad
 
 Es com&uacute;n que te pidan hacer cambios a tu contribuci&oacute;n, ya sea una retroalimentaci&oacute;n sobre el alcance de tu idea, o cambios en tu c&oacute;digo.
 
-Cuando &aacute;lguien te pide cambios, comp&oacute;rtate de manera sensible, Se tomaron el tiempo necesario para revisar tu contribuci&oacute;n. Abrir un pull request y luego alejarse es de malos modales. Si no sabes c&oacute;mo hacer los cambios, investiga el problema, y luego pregunta por ayuda si la necesitas.
+Cuando alguien te pide cambios, comp&oacute;rtate de manera sensible, se tomaron el tiempo necesario para revisar tu contribuci&oacute;n. Abrir un pull request y luego alejarse es de malos modales. Si no sabes c&oacute;mo hacer los cambios, investiga el problema, y luego pregunta por ayuda si la necesitas.
 
 Si no tienes el tiempo para volver a trabajar en ese problema (por ejemplo, si la conversaci&oacute;n tuvo lugar durante meses, y tus circunstancias cambiaron), permite que el responsable lo sepa, de manera que no quede a la espera de una respuesta. Alguien puede sentirse complacido de hacerse cargo.
 

@@ -54,7 +54,7 @@ Animar a otros colaboradores es tambi&eacute;n invertir en t&iacute; mismo . Cua
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   ¿Alguna vez viste un evento (t&eacute;cnico) en donde no conozcas a nadie, pero todos los dem&aacute;s parece que se encuentran en grupos y conversan como viejos amigos? (...) Ahora imag&iacute;nate queriendo contribuir con un proyecto de c&oacute;digo abierto, pero no distingues porqu&eacute; o c&oacute;mo esto est&aacute; sucediendo.
   <p markdown="1" class="pquote-credit">
-— @janl, ["C&oacute;digo abierto sostenible"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["C&oacute;digo abierto sostenible"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -201,7 +201,7 @@ Tu trabajo como encargado es evitar que estas situaciones escalen. Incluso si ti
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Como responsable de un proyecto, es extremadamente importante ser respetuoso con los colaboradores. A menudo toman lo que les dices de manera personal.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

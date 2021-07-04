@@ -33,8 +33,9 @@ _Vrije software (Free software)_ verwijst naar dezelfde reeks projecten als _ope
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Een van de meest lonende ervaringen die ik krijg bij het gebruiken van en samenwerken aan open source, komt voort uit de relaties die ik opbouw met andere ontwikkelaars die met veel van dezelfde problemen worden geconfronteerd als ik.
-  
+
   _One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am._
+
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["Het was geweldig om in Open Source te komen"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
@@ -79,8 +80,9 @@ Als het je enige doel is om met je werk te pronken, wil je misschien niet eens b
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   Op een gegeven moment heb ik een aangepaste UIAlertView gemaakt die ik gebruikte ... en ik besloot het open source te maken. Dus ik heb het aangepast om het dynamischer te maken en het naar GitHub geüpload. Ik schreef ook mijn eerste documentatie waarin ik aan andere ontwikkelaars uitlegde hoe ze het voor hun projecten konden gebruiken. Waarschijnlijk heeft niemand het ooit gebruikt omdat het een eenvoudig project was, maar ik voelde me goed over mijn bijdrage.
-  
+
   _At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution._
+
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Zelf onderwezen softwareontwikkelaars: waarom open source belangrijk voor ons is"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
@@ -97,8 +99,9 @@ Als u een specifiek budget of personeel nodig heeft voor promotie, operaties en 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   Als u begint met het openen van het project, is het belangrijk om ervoor te zorgen dat uw beheerprocessen rekening houden met de bijdragen en capaciteiten van de gemeenschap rond uw project. Wees niet bang om bijdragers die niet in uw bedrijf werkzaam zijn, te betrekken bij de belangrijkste aspecten van het project, vooral als ze regelmatig bijdragen.
-  
+
   _As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors._
+
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["Dus je wilt een project openen, hè?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
@@ -157,8 +160,9 @@ U kunt uw README gebruiken om andere vragen te beantwoorden, zoals hoe u omgaat 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Betere documentatie betekent meer gebruikers, minder ondersteuningsverzoeken en meer bijdragers. (...) Onthoud dat u niet uw lezers bent. Er zijn mensen die misschien naar een project komen die totaal andere ervaringen hebben.
-  
+
   _Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences._
+
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Schrijven zodat uw woorden worden gelezen (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
@@ -205,8 +209,9 @@ Link naar uw BIJDRAGEN-bestand vanuit uw README, zodat meer mensen het kunnen zi
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   We hebben allemaal ervaringen gehad waarbij we te maken kregen met wat waarschijnlijk misbruik was, hetzij als onderhouder die probeerde uit te leggen waarom iets op een bepaalde manier moest zijn, of als gebruiker ... die een simpele vraag stelde. (...) Een gedragscode wordt een gemakkelijk te raadplegen en koppelbaar document dat aangeeft dat uw team constructief discours zeer serieus neemt.
-  
-  _We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
+
+  _We've all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
+
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Open Source een gelukkiger plek maken"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
@@ -258,10 +263,11 @@ Of het nu gaat om officiële documentatie of een informele e-mail, uw schrijfsti
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Ik probeerde betrokken te zijn bij elke thread op de mailinglijst en voorbeeldig gedrag te tonen, aardig te zijn tegen mensen, hun problemen serieus te nemen en in het algemeen behulpzaam te zijn. Na een tijdje bleven mensen rondhangen om niet alleen vragen te stellen, maar ook om te helpen met het beantwoorden, en tot mijn grote vreugde bootsten ze mijn stijl na.
-  
+
   _I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style._
+
   <p markdown="1" class="pquote-credit">
-— @janl op [CouchDB](https://github.com/apache/couchdb), ["Duurzaam open source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl op [CouchDB](https://github.com/apache/couchdb), ["Duurzaam open source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

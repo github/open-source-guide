@@ -54,7 +54,7 @@ Het onderhouden van populaire projecten kan een aanzienlijke verantwoordelijkhei
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   Vraag het aan een willekeurige open source projectbeheerder, en zij zullen u vertellen over de realiteit van de hoeveelheid werk die nodig is om een project te beheren. Je hebt klanten. U lost problemen voor hen op. U creëert nieuwe functies. Dit wordt een echte tijdrovende bezigheid.
-  
+
   _Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time._
 
   <p markdown="1" class="pquote-credit">
@@ -67,8 +67,9 @@ Betaald werk stelt mensen uit verschillende rangen en standen ook in staat om ee
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
   OSS levert enorme voordelen op voor de technologische industrie, wat op zijn beurt voordelen betekent voor alle industrieën. (...) Als de enige mensen die zich erop kunnen concentreren de gelukkigen en geobsedeerd zijn, dan is er een enorm onbenut potentieel.
-  
+
    _OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential._
+
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Geld en Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
@@ -85,8 +86,9 @@ Het is gemakkelijker om een pleidooi te houden voor open source-werk als je werk
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
   Zoals velen in open source, worstelde ik met de last om een project te onderhouden. Toen ik voor het eerst met open source begon, bleef ik gewoon te laat om eraan te werken of toen ik thuiskwam. (...) Ik was in staat om met mijn baas de problemen te bespreken waarmee ik werd geconfronteerd en we kwamen met ideeën over hoe we open source-taken konden integreren met ons eigen gebruik van Babel.
-  
+
   _Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel._
+
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Open source-onderhouder verhalen"](https://github.com/open-source/stories/hzoo)
   </p>
@@ -105,8 +107,9 @@ Als uw bedrijf deze weg inslaat, is het belangrijk om de grenzen tussen gemeensc
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   Betaald worden om aan open source te werken is een zeldzame en geweldige kans, maar je zou je passie in het proces niet moeten opgeven. Uw passie zou moeten zijn waarom bedrijven u willen betalen.
-  
+
   _Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you._
+
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Wazige lijnen"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
@@ -121,6 +124,7 @@ Projecten die zijn ontstaan ​​bij een groot bedrijf, zoals [Go](https://gith
 
 Afhankelijk van uw persoonlijke omstandigheden kunt u proberen om zelfstandig geld in te zamelen om uw open source-werk te financieren. Bijvoorbeeld:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon financierde zijn werk op [Redux](https://github.com/reactjs/redux) via een [Patreon crowdfunding-campagne](https://redux.js.org/)
 * @andrewgodwin gefinancierd werk aan Django-schemamigraties [via een Kickstarter-campagne](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -154,7 +158,7 @@ Afhankelijk van uw project kunt u mogelijk kosten in rekening brengen voor comme
 * **[Travis CI](https://github.com/travis-ci)** biedt betaalde versies van zijn product
 * **[Ghost](https://github.com/TryGhost/Ghost)** is een non-profitorganisatie met een betaalde beheerde service
 
-Sommige populaire projecten, zoals [npm](https://github.com/npm/npm) en [Docker](https://github.com/docker/docker), halen zelfs risicokapitaal op om de groei van hun bedrijf te ondersteunen.
+Sommige populaire projecten, zoals [npm](https://github.com/npm/cli) en [Docker](https://github.com/docker/docker), halen zelfs risicokapitaal op om de groei van hun bedrijf te ondersteunen.
 
 ### Subsidie ​​aanvragen
 
@@ -196,8 +200,9 @@ Heeft de financier enige vereisten met betrekking tot uitbetaling? U moet bijvoo
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
   We zijn al jaren de toonaangevende bron van websitevriendelijke pictogrammen, met een community van meer dan 20 miljoen mensen en zijn te zien op meer dan 70 miljoen websites, waaronder Whitehouse.gov. (...) Versie 4 bestond drie jaar geleden. Webtechnologie is sindsdien veel veranderd, en eerlijk gezegd is Font Awesome een beetje muf geworden. (...) Daarom introduceren we Font Awesome 5. We moderniseren en herschrijven de CSS en herontwerpen elk pictogram van boven naar beneden. We hebben het over een beter ontwerp, betere consistentie en betere leesbaarheid.
-  
+
   _For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability._
+
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>

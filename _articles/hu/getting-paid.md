@@ -68,7 +68,7 @@ Egyszerűbb elérni ezt, ha az adott nyílt forráskódú projektet a munkaadód
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Mint sokan mások a nyílt forráskódú közösségben, én is küzdöttem egy projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassak, vagy rögtön nekikezdtem, ahogy hazaértem. (...) Meg tudtam beszélni a vezetőmmel a problémákat, amikkel szembesültem és kitaláltuk, hogy mivel használjuk a Babel-t, be tudjuk beépíteni a nyílt forráskódú feladatokat a saját munkánkba. 
+  Mint sokan mások a nyílt forráskódú közösségben, én is küzdöttem egy projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassak, vagy rögtön nekikezdtem, ahogy hazaértem. (...) Meg tudtam beszélni a vezetőmmel a problémákat, amikkel szembesültem és kitaláltuk, hogy mivel használjuk a Babel-t, be tudjuk beépíteni a nyílt forráskódú feladatokat a saját munkánkba.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
@@ -101,6 +101,7 @@ A nagy cégektől származó projektek, mint a [Go](https://github.com/golang) v
 
 A személyes körülményeidtől függően megpróbálhatsz önállóan pénzt gyűjteni a nyílt forráskódú munkád finanszírozásához. Például:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon a [Redux](https://github.com/reactjs/redux) projektet egy [Patreon crowdfunding kampányon](https://redux.js.org/) keresztül finanszírozta (önkéntes támogatás)
 * @andrewgodwin a Django schema migrációkat [egy Kickstarter kampányon keresztül](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) finanszírozta.
 
@@ -133,9 +134,9 @@ A projektedtől függően kérhetsz támogatást szupportért, új funkcióért,
 
 * **[Sidekiq](https://github.com/mperham/sidekiq)** kínál fizetős verziót támogatásért cserébe
 * **[Travis CI](https://github.com/travis-ci)** kínál fizetős verziót privát használatra
-* **[Ghost](https://github.com/TryGhost/Ghost)** alapvetően non-profit, de a felügyelt szolgáltatásért fizetni kell 
+* **[Ghost](https://github.com/TryGhost/Ghost)** alapvetően non-profit, de a felügyelt szolgáltatásért fizetni kell
 
-Néhány híres projekt, mint az [npm](https://github.com/npm/npm) és a [Docker](https://github.com/docker/docker), még kockázati tőkét is bevontak a növekedés finanszírozásához.
+Néhány híres projekt, mint az [npm](https://github.com/npm/cli) és a [Docker](https://github.com/docker/docker), még kockázati tőkét is bevontak a növekedés finanszírozásához.
 
 ### Jelentkezz pályázatokra
 
@@ -146,7 +147,7 @@ Egyes szoftveralapítványok és cégek támogatást nyújtanak a nyílt forrás
 * **[Libraries.io](https://github.com/librariesio)**  támogatást kapott a [Sloan Foundation](https://sloan.org/programs/digital-technology)-től
 * A **[Python Software Foundation](https://www.python.org/psf/grants/)** támogatást kínál a Python-hoz kapcsolódó projekteknek
 
-Ha érdekelnek a lehetőségek vagy esettanulmányok részletesebben, @nayafia [írt egy útmutatót](https://github.com/nayafia/lemonade-stand), hogy hogyan juthatunk pénzhez a nyílt forráskódú munkával. 
+Ha érdekelnek a lehetőségek vagy esettanulmányok részletesebben, @nayafia [írt egy útmutatót](https://github.com/nayafia/lemonade-stand), hogy hogyan juthatunk pénzhez a nyílt forráskódú munkával.
 A különböző finanszírozási lehetőségek különböző képességeket igényelnek, a választásnál vedd figyelembe az erősségeidet.
 
 ## Pénzügyi támogatás kiépítése
@@ -187,4 +188,4 @@ A támogatónak vannak kikötései a kifizetéssel kapcsolatosan? Például lehe
 
 Pénzügyi támogatást kapni nem könnyű dolog, legyen szó nyílt forráskódról, non-profit szervezetről, vagy szoftver startupról, legtöbb esetben kreatívnak kell lenned. El kell döntened, hogyan szeretnéd a támogatást megkapni, kutatnod kell, és a támogató helyébe kell képzelned magad, hogy meggyőzhesd a támogatásról.
 
-> 
+>

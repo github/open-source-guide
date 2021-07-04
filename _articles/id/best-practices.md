@@ -259,7 +259,7 @@ Sama halnya seperti pekerjaan lainnya, mengambil liburan secara berkala akan mem
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Dalam mengelola WP-CLI, Saya menemukan bahwa saya perlu membuat diri saya bahagia terlebih dahulu, dan menentukan batas keterlibatan saya dengan jelas. Keseimbangan terbaik yang saya temukan adalah 2-5 jam per minggu sebagai bagian dari jadwal pekerjaan normal saya. Hal ini menjaga keterlibatan saya sebagai sebuah gairah. Karena saya memprioritaskan masalah-masalah yang saya kerjakan, saya bisa membuat kemajuan berkala tentang apa yang saya anggap penting.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Votre Code de Conduite
+title: Votre code de conduite
 description: Faciliter un comportement communautaire sain et constructif en adoptant et en appliquant un code de conduite.
 class: coc
 order: 8
@@ -31,7 +31,7 @@ En plus de communiquer vos attentes, un code de conduite décrit ce qui suit:
 
 Quand vous le pouvez, utilisez l'existant. Le [Contributor Covenant](https://contributor-covenant.org/) est un code de conduite qui est utilisé par plus de 40 000 projets open source, y compris Kubernetes, Rails et Swift.
 
-Le [Django Code of Conduct](https://www.djangoproject.com/conduct/) et le [Citizen Code of Conduct](http://citizencodeofconduct.org/) sont également deux bons exemples de code de conduite.
+Le [Django Code of Conduct](https://www.djangoproject.com/conduct/) et le [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sont également deux bons exemples de code de conduite.
 
 Placez un fichier CODE_OF_CONDUCT dans le répertoire racine de votre projet et rendez-le visible pour votre communauté en le liant à votre fichier CONTRIBUTING ou README.
 

@@ -11,16 +11,16 @@ toc:
   how-to-submit-a-contribution: Katkı nasıl gönderilir?
   what-happens-after-you-submit-a-contribution: Bir katkı gönderdikten sonra ne olur?
 order: 1
-image: /assets/images/cards/contribute.png
+image: "/assets/images/cards/contribute.png"
 related:
-- beginners
-- building
+  - beginners
+  - building
 ---
 
 ## Açık kaynağa neden katkıda bulunmalıyım?
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar"> 
   \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmanın projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!
   <p markdown="1" class="pquote-credit">
 - @errietta, ["Açık kaynaklı yazılımlara katkıda bulunmayı neden seviyorum"](https://www.errietta.me/blog/open-source/)
@@ -159,7 +159,7 @@ Bir yazılım geliştiricisi olsanız bile, bir dokümantasyon projesi üzerinde
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Bir sorun listesine giderseniz ve işler kafa karıştırıcı görünür, yalnız değilsiniz. Bu araçlar çok fazla bilgi gerektirir, ancak insanlar size yardımcı olabilir ve onlara sorular sorabilirsiniz.
   <p markdown="1" class="pquote-credit">
-- @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunulur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+- @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunulur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/) 
   </p>
 </aside>
 
@@ -204,7 +204,7 @@ Son olarak, açık kaynak projeler tartışmaları yönetmek için aşağıdaki 
 
 Açık kaynak projelerin nasıl çalıştığını çözdüğünüze göre, katkıda bulunacak bir proje bulma zamanı!
 
-Daha önce hiç bir açık kaynak projeye katkıda bulunmadıysanız, _"Ülkenizin sizin için neler yapabileceğini değil - ülkeniz için neler yapabileceğinizi sorun"_ diyen ABD Başkanı John F. Kennedy'yi  örnek alın.
+Daha önce hiç bir açık kaynak projeye katkıda bulunmadıysanız, _"Ülkenizin sizin için neler yapabileceğini değil, ülkeniz için neler yapabileceğinizi sorun"_ diyen ABD Başkanı John F. Kennedy'yi  örnek alın.
 
 Açık kaynağa katkıda bulunmak, farklı projelerde her seviyede gerçekleşir. İlk katkınızın tam olarak ne olacağını veya nasıl görüneceğini düşünmeniz gerekmez.
 
@@ -230,7 +230,7 @@ Yeni projeleri keşfetmenize ve katkıda bulunmanıza yardımcı olmak için aş
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Katkıda bulunmadan önce üzerinden geçilebilecek bir kontrol listesi
 
@@ -242,7 +242,9 @@ Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kab
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">   Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.   </label>
+  <label for="cbox1" class="overflow-hidden d-block text-normal">
+    Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.
+  </label>
 </div>
 
 **Proje aktif olarak katkı kabul ediyor**
@@ -251,71 +253,97 @@ Ana daldaki geliştirici faaliyetine bakın. GitHub'da, bu bilgiyi bir kütüpha
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">   En son kod değişikliği ne zaman yapılmış?   </label>
+  <label for="cbox2" class="overflow-hidden d-block text-normal">
+    En son kod değişikliği ne zaman yapılmış?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">   Projenin kaç katılımcısı var? </label>
+  <label for="cbox3" class="overflow-hidden d-block text-normal">
+    Projenin kaç katılımcısı var?
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">   İnsanlar ne sıklıkta geliştirme yapıyor? (GitHub'da, bunu üstteki çubukta "Commits" i tıklayarak bulabilirsiniz.)   </label>
+  <label for="cbox4" class="overflow-hidden d-block text-normal">
+    İnsanlar ne sıklıkta geliştirme yapıyor? (GitHub'da, bunu üstteki çubukta "Commits" i tıklayarak bulabilirsiniz.)
+  </label>
 </div>
 
 Ardından, projenin sorun listesine bakın.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">   Kaç tane açık sorun var?   </label>
+  <label for="cbox5" class="overflow-hidden d-block text-normal">
+    Kaç tane açık sorun var?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">   Geliştiriciler sorunlara hızlı bir şekilde yanıt veriyor mu?   </label>
+  <label for="cbox6" class="overflow-hidden d-block text-normal">
+    Geliştiriciler sorunlara hızlı bir şekilde yanıt veriyor mu?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">   Sorunların altında aktif tartışma var mı?   </label>
+  <label for="cbox7" class="overflow-hidden d-block text-normal">
+    Sorunların altında aktif tartışma var mı?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">   Sorunlar yeni mi?   </label>
+  <label for="cbox8" class="overflow-hidden d-block text-normal">
+    Sorunlar yeni mi?
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">   Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)   </label>
+  <label for="cbox9" class="overflow-hidden d-block text-normal">
+    Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)
+  </label>
 </div>
 
 Şimdi aynısını projenin PR listesi için yapın.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">   Kaç tane açık PR var?   </label>
+  <label for="cbox10" class="overflow-hidden d-block text-normal">
+    Kaç tane açık PR var?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox20" class="overflow-hidden d-block text-normal">   Sağlayıcılar PR'ları hızlı bir şekilde yanıtlıyor mu?   </label>
+  <label for="cbox20" class="overflow-hidden d-block text-normal">
+    Sağlayıcılar PR'ları hızlı bir şekilde yanıtlıyor mu?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">     PR'lar üzerinde aktif tartışma var mı?   </label>
+  <label for="cbox11" class="overflow-hidden d-block text-normal">
+    PR'lar üzerinde aktif tartışma var mı?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">     PR yeni mi gelmiş?   </label>
+  <label for="cbox12" class="overflow-hidden d-block text-normal">
+    PR yeni mi gelmiş?
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox13" class="overflow-hidden d-block text-normal">     Yakındazamanda ne kadar PR birleştirilmiş? (GitHub'da kapalı PR'leri görmek için PR sayfasındaki "kapalı" sekmesine tıklayın.)   </label>
+  <label for="cbox13" class="overflow-hidden d-block text-normal">
+    Yakındazamanda ne kadar PR birleştirilmiş? (GitHub'da kapalı PR'leri görmek için PR sayfasındaki "kapalı" sekmesine tıklayın.)
+  </label>
 </div>
 
 **Proje katkı bekliyor mu?**
@@ -324,22 +352,30 @@ Arkadaş canlısı ve misafirperver bir proje, yeni katılımcılara açık olac
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox14" class="overflow-hidden d-block text-normal">     Geliştiriciler, sorunlardaki sorulara yardımcı oluyor mu?   </label>
+  <label for="cbox14" class="overflow-hidden d-block text-normal">
+    Geliştiriciler, sorunlardaki sorulara yardımcı oluyor mu?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox15" class="overflow-hidden d-block text-normal">     İnsanlar konularda, tartışma forumunda ve sohbette (örneğin, IRC veya Slack) arkadaş canlısı mı?   </label>
+  <label for="cbox15" class="overflow-hidden d-block text-normal">
+    İnsanlar konularda, tartışma forumunda ve sohbette (örneğin, IRC veya Slack) arkadaş canlısı mı?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox16" class="overflow-hidden d-block text-normal">     PR'lar inceleniyor mu?   </label>
+  <label for="cbox16" class="overflow-hidden d-block text-normal">
+    PR'lar inceleniyor mu?
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox17" class="overflow-hidden d-block text-normal">     Geliştiriciler insanlara katkılarından dolayı teşekkür eder mi?   </label>
+  <label for="cbox17" class="overflow-hidden d-block text-normal">
+    Geliştiriciler insanlara katkılarından dolayı teşekkür eder mi?
+  </label>
 </div>
 
 <aside markdown="1" class="pquote">
@@ -371,31 +407,37 @@ Bir sorunu açmadan veya bir PR oluşturmadan ya da sohbette bir soru sormadan �
 **Bağlam ver.** Başkalarının sizi anlamada hızlanmalarına yardımcı olun. Bir hatayla karşılaşıyorsanız, ne yapmaya çalıştığınızı ve nasıl tekrarlanabileceğini açıklayın. Yeni bir fikir önerecekseniz, neden projeye faydalı olacağını düşündüğünüzü açıklayın (sadece sizin için değil!).
 
 > 😇 _"Y yaptığımda X olmuyor"_
-> X _"X çalışmıyor! Lütfen düzeltin."_
+>
+> 😢 _"X çalışmıyor! Lütfen düzeltin."_
 
 **Ödevini önceden yap.** Bir şeyleri bilmemek normaldir, ama denediğini göster. Yardım istemeden önce, bir projenin README'sini, belgelerini, sorun listesini (açık veya kapalı), e-posta listesini kontrol ettiğinizden ve bir cevap için interneti aradığınızdan emin olun. Öğrenmeye çalıştığını gösterdiğin zaman insanlar takdir edeceklerdir.
 
-> X _"X'in nasıl uygulanacağından emin değilim. Yardım belgelerini kontrol ettim ve herhangi bir yerde bulamadım."_
-> 😢 _"X nasıl yapılır?"_
+> 😇 _"X'in nasıl uygulanacağından emin değilim. Yardım belgelerini kontrol ettim ve herhangi bir yerde bulamadım."_
+>
+> 😢 <em>"X nasıl yapılır?"</em>
 
 **İstekleri kısa ve öz tutun.** Bir e-posta göndermek gibi, ne kadar basit veya yararlı olursa olsun, her katkı başkasının incelemesini gerektirir. Birçok projenin, yardım için uygunların yapabileceklerinden daha fazla gelen talebi olur. Basit olun. Birinin size yardım edebilme şansını artıracaksınız.
 
 > 😇 _"Bir API öğretici belgesi yazmak istiyorum."_
+>
 > 😢 _"Geçen gün otoyoldan aşağı iniyordum ve benzin için durdum ve sonra aklıma yapmamız gereken bir şey için inanılmaz bir fikir geldi, ama bunu açıklamadan önce sana göstereyim ..."_
 
 **Tüm iletişimi herkese açık tutun.** Her ne kadar cazip olsa da, hassas bilgileri (güvenlik sorunu veya ciddi davranış ihlali gibi) paylaşmanız gerekmedikçe, geliştiricilere özel olarak ulaşmayın. Sohbeti herkese açık tuttuğunuzda, daha fazla kişi alış verişinizden öğrenebilir ve bundan faydalanabilir. Tartışmalar da kendi başlarına katkı sayılabilir.
 
 > 😇 _(yorum olarak) "@-maintainer Merhabalar! Bu PR'a nasıl devam edelim?"_
+>
 > 😢 _(bir e-posta olarak) "Hey, e-posta yüzünden sizi rahatsız ettiğim için özür dilerim, ancak PR'mi gözden geçirme şansınız olup olmadığını merak ediyordum"_
 
 **Soru sormak sorun değil (ama sabırlı olun!).** Herkes bir zamanlar projede yeniydi ve deneyimli katılımcıların bile yeni bir projeye bakarken hız kazanmaları gerekiyor. Aynı şekilde, uzun süredir devam edenler bile, projenin her bölümüne aşina değildir. Onlara size göstermelerini istediğiniz sabrı gösterin.
 
 > 😇 _"Bu hatayı incelediğiniz için teşekkür ederiz. Önerilerinizi takip ettim. İşte sonuç."_
+>
 > 😢 _"Neden sorunumu çözemiyorsun? Bu senin projen değil mi?"_
 
 **Topluluk kararlarına saygı gösterin.** Fikirleriniz, toplumun öncelikleri veya vizyonundan farklı olabilir. Geri bildirim sunabilir veya fikrinizi sürdürmemeye karar verebilirler. Tartışmanız ve uzlaşı aramanız gerekirken, geliştiriciler kararınızla sizden daha uzun yaşamak zorundadır. Düşüncelerine katılmıyorsanız, her zaman kendi çatalınızla çalışabilir veya kendi projenizi başlatabilirsiniz.
 
 > 😇 _"Fikrimi destekleyemediğiniz için hayal kırıklığına uğradım, ancak bunun sadece kullanıcıların küçük bir bölümünü etkilediğini açıkladığınızdan, nedenini anlıyorum. Dinlediğiniz için teşekkürler."_
+>
 > 😢 _"Neden fikrimi desteklemiyorsun? Bu kabul edilemez!"_
 
 **Her şeyden önce, zarif olun.** Açık kaynak dünyanın her yerinden ortak çalışanlardan oluşur. Bağlam diller, kültürler, coğrafyalar ve zaman dilimleri arasında kaybolur. Ek olarak, yazılı iletişim bir ton veya ruh halini iletmeyi zorlaştırır. Bu konuşmaların niyetlerinin iyi olduğunu düşünün. Bir fikre kibarca geri dönmek, daha fazla içerik istemek veya konumunuzu daha da netleştirmek iyi bir şey. İnterneti bulduğunuzdan daha iyi bir yer bırakmaya çalışın.
@@ -464,7 +506,7 @@ Katkınızı gönderdikten sonra, aşağıdakilerden biri olacaktır:
 
 ### 😭 Hiç bir cevap almazsınız.
 
-Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katkıda-bulunmadan-önce-üzerinden-geçilebilecek-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamaması olası.
+Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katk%C4%B1da-bulunmadan-%C3%B6nce-%C3%BCzerinden-ge%C3%A7ilebilecek-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamaması olası.
 
 Bir haftadan uzun bir süredir yanıt alamadıysanız, aynı konuya kibarca yorum yazmak, birinden inceleme istemek doğru olur. Katkınızı gözden geçirecek doğru kişinin adını biliyorsanız, bunları o konuya ekleyebilirsiniz (@).
 

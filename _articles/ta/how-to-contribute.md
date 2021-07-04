@@ -217,7 +217,7 @@ related:
 * [Up For Grabs](https://up-for-grabs.net/)
 * [பங்களிப்பாளர்-நிஞ்ஜா](https://contributor.ninja)
 * [முதல் பங்களிப்புகள்](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### பங்களிக்கும் முன் ஒரு சரிபார்ப்புப் பட்டியல்
 

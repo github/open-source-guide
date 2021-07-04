@@ -36,7 +36,7 @@ _Free software_ kifejezés ugyanazokra a projektekre vonatkozik, mint amire az _
 
 * **Együttműködés:** A nyílt forráskódú projektek bárkitől elfogadnak módosítást a világ bármely részéről. [Exercism](https://github.com/exercism/), például egy programozási gyakorlást segítő projekt több, mint 350 fejlesztő részvételével.
 
-* **Elterjedés és újrafelhasználás:** A nyílt forráskódú projekteket bárki használhatja szinte bármilyen célra. Az emberek akár más dolgok létrehozására is felhasználhatják. A [WordPress] (https://github.com/WordPress) például úgy kezdte, hogy egy létező, [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) nevű projektet elágaztattak.
+* **Elterjedés és újrafelhasználás:** A nyílt forráskódú projekteket bárki használhatja szinte bármilyen célra. Az emberek akár más dolgok létrehozására is felhasználhatják. A [WordPress](https://github.com/WordPress) például úgy kezdte, hogy egy létező, [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) nevű projektet elágaztattak.
 
 * **Átláthatóság:** A nyílt forráskódú projektet bárki megvizsgálhatja, vagy hibákat kereshet benne. Az átláthatóság a kormányoknak is fontos, mint ahogy [Bulgária](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) teszi ezt, vagy ahogy az [Amerikai Egyesült Államok](https://sourcecode.cio.gov/) szabályozza a bank, és egészségügy iparát, de fontos a biztonsági szoftverek esetén is, mint a [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -244,7 +244,7 @@ Akár hivatalos dokumentáció, akár alkalmi e-mail, az írási stílusa része
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Megpróbáltam részt venni a levelezőlista minden szálában, és példamutató magatartást mutatni, kedves voltam az emberekkel, komolyan vettem a kérdéseket, és általában mindenkinek segítettem. Egy idő múlva az emberek úgy kezdtek el viselkedni mint én, és nem csak kérdéseket tettek fel, hanem a válaszokat is adtak az én stílusomban, ennek nagyon örültem.
   <p markdown="1" class="pquote-credit">
-— @janl [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

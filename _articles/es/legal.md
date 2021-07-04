@@ -18,7 +18,7 @@ Compartir tu trabajo creativo con el mundo puede ser una experiencia excitante y
 
 ¡Me alegro que lo preguntes! Cuando realizas trabajo creativo (como escritura, dibujo, o c&oacute;digo), ese trabajo se encuentra bajo derechos de autor por defecto. Es decir, la ley asume que, como autor de tu trabajo, tienes poder de decisi&oacute;n sobre lo que los otros pueden o no hacer con ello.
 
-En general, estoy significa que nadie m&aacute;s  puede usar, copiar, distribuir, o modificar tu trabajo sin tener riesgo de sufrir bajas, ser investigado o demandado.
+En general, esto significa que nadie m&aacute;s  puede usar, copiar, distribuir, o modificar tu trabajo sin tener riesgo de sufrir bajas, ser investigado o demandado.
 
 Sin embargo, el c&oacute;digo abierto es una circunstancia inusual debido a que el autor espera que otros usen, modifiquen, y compartan el trabajo. Pero, debido a que legalmente por defecto los derechos de autor son exclusivos, se necesita una licencia que enuncie expl&iacute;citamente estos permisos.
 

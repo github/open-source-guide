@@ -261,7 +261,7 @@ related:
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   WP-CLI をメンテナンスする中で、まずは自分自身を幸せにし、自分がどこまで関わるかの境界を明確にすることが必要であると気づきました。私が見つけた最も良いバランスは、私の通常の仕事時間の中で週に2 ~ 5時間を充てるというものです。このバランスで、私はプロジェクトに熱心に関わることができ、かつ仕事のようだと感じることもありません。取り掛かるイシューの優先順位付けをしているので、最も重要だと思うことで定期的に進捗を出すことができるのです。
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

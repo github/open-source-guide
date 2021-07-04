@@ -288,7 +288,7 @@ Net als bij elk ander soort werk, zal het nemen van regelmatige pauzes je verfri
   
   _In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important._
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Mijn condoleances, u bent nu de onderhouder (_maintainer_) van een populair open source-project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Mijn condoleances, u bent nu de onderhouder (_maintainer_) van een populair open source-project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

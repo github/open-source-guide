@@ -265,7 +265,7 @@ Sama seperti jenis pekerjaan lain, berehat sebentar akan membuat anda segar, gem
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Dalam mengekalkan WP-CLI, saya mendapati bahawa saya harus membuat diri saya bahagia terlebih dahulu, dan menetapkan batasan yang jelas mengenai penglibatan saya. Imbangan terbaik yang saya dapati adalah 2-5 jam seminggu, sebagai sebahagian daripada jadual kerja biasa saya. Ini menjadikan penglibatan saya menjadi minat, dan daripada merasa terlalu suka bekerja. Kerana saya mengutamakan masalah yang sedang saya jalankan, saya dapat membuat kemajuan secara berkala terhadap perkara yang saya rasa paling penting.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Takziah, anda sekarang menjadi penyelenggara projek sumber terbuka yang popular"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Takziah, anda sekarang menjadi penyelenggara projek sumber terbuka yang popular"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

@@ -31,7 +31,7 @@ Neben der Klarstellung Ihrer Erwartungen beschreibt ein Verhaltenskodex Folgende
 
 Wo immer Sie können, nutzen Sie Vorhandenes. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein Verhaltenskodex, der von über 40.000 Open-Source-Projekten wie Kubernetes, Rails und Swift verwendet wird.
 
-Der [Django-Verhaltenskodex](https://www.djangoproject.com/conduct/) und der [Citizen Code of Conduct](http://citizencodeofconduct.org/) sind ebenfalls zwei gute Beispiele.
+Der [Django-Verhaltenskodex](https://www.djangoproject.com/conduct/) und der [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sind ebenfalls zwei gute Beispiele.
 
 Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und machen Sie sie für Ihre Community sichtbar, indem Sie sie von Ihrer CONTRIBUTING- oder README-Datei verlinken.
 

@@ -250,7 +250,7 @@ Ya sea documentaci&oacute;n oficial como casual (un email), tu estilo de redacci
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   He tratado de involucrarme con cada hilo del listado de emails, y mostrando un comportamiento ejemplar, siendo agradable con las personas, tomando sus issues seriamente y tratando de ser de ayuda por sobre todo. Despu&eacute;s de un tiempo las personas no solo me buscaban para hacerme preguntas si no para ayudarme a responderlas, y, para mi sorpresa, imitaban mi estilo.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

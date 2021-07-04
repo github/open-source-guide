@@ -101,6 +101,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 마지막으로, 개인적인 상황에 따라, 오픈소스 작업을 위해 독립적으로 돈을 모으는 노력을 할 수 있습니다. 예시:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon은 [Patreon crowdfunding campaign](https://redux.js.org/)을 통해 [Redux](https://github.com/reactjs/redux)에 대한 그의 작업에 펀드했습니다.
 * @andrewgodwin은 Django 스키마 마이그레이션 작업을 [Kickstarter 캠페인을 통해](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 펀드했습니다.
 
@@ -129,7 +130,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 * **[Travis CI](https://github.com/travis-ci)** 는 제품의 유료 버전을 제공합니다
 * **[Ghost](https://github.com/TryGhost/Ghost)** 는 유료 관리 서비스가 있는 비영리 단체입니다
 
-[npm](https://github.com/npm/npm) 및 [Docker](https://github.com/docker/docker)와 같은 일부 인기있는 프로젝트는, 사업 성장을 지원하기 위해 벤처 캐피탈을 조성하기까지 합니다.
+[npm](https://github.com/npm/cli) 및 [Docker](https://github.com/docker/docker)와 같은 일부 인기있는 프로젝트는, 사업 성장을 지원하기 위해 벤처 캐피탈을 조성하기까지 합니다.
 
 ### 보조금 신청하기
 

@@ -31,7 +31,7 @@ related:
 
 가능한 모든 곳에서 이전 기술을 사용하십시오. [기여자 규약](https://www.contributor-covenant.org/)은 Kubernetes, Rails 및 Swift를 포함하여 40,000 개 이상의 오픈소스 프로젝트에서 사용되는 행동강령입니다.
 
-[Django 행동강령](https://www.djangoproject.com/conduct/)과 [Citizen 행동강령](http://citizencodeofconduct.org/)은 두가지 훌륭한 행동강령입니다.
+[Django 행동강령](https://www.djangoproject.com/conduct/)과 [Citizen 행동강령](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/)은 두가지 훌륭한 행동강령입니다.
 
 프로젝트의 최상단 디렉토리에 CODE_OF_CONDUCT 파일을 놓고 CONTRIBUTING 또는 README 파일에서 링크하여 커뮤니티에 표시되게 하십시오.
 
