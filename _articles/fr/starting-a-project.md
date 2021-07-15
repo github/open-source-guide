@@ -12,22 +12,22 @@ related:
 
 ## Le &quot;quoi&quot; et le &quot;pourquoi&quot; de l'open source
 
-Donc, vous songez à commencer avec l'open source ? Toutes nos félicitations ! Le monde apprécie votre contribution. Parlons de ce qu'est l'open source et pourquoi les gens le font.
+Donc, vous songez à commencer avec l'open source ? Toutes nos félicitations ! Le monde va apprécier votre contribution. Parlons de ce qu'est l'open source et pourquoi les gens le font.
 
 ### Que signifie "open source" ?
 
-Lorsqu'un projet est open source, cela signifie que **n'importe qui peut voir, utiliser, modifier et distribuer votre projet pour n'importe quel but.** Ces autorisations sont appliquées via [une licence open source](https://opensource.org/licenses).
+Lorsqu'un projet est open source, cela signifie que **n'importe qui peut voir, utiliser, modifier et distribuer votre projet dans n'importe quel but.** Ces autorisations sont appliquées via [une licence open source](https://opensource.org/licenses).
 
 L'open source est puissant car il abaisse les barrières à l'adoption, permettant aux idées de se propager rapidement.
 
-Pour comprendre comment cela fonctionne, imaginez que votre ami a un potluck, et que vous apportez une tarte aux cerises.
+Pour comprendre comment cela fonctionne, imaginez qu'un ami organise une collation, et que vous apportez une tarte aux cerises.
 
 * Tout le monde goûte la tarte (_utiliser_)
 * La tarte est un succès ! Ils vous demandent la recette que vous leur fournissez (_voir_)
 * Un ami, Alex, qui est chef pâtissier, suggère de réduire le sucre (_modifier_)
 * Une autre amie, Lisa, demande à l'utiliser pour un dîner la semaine prochaine (_distribuer_)
 
-Par comparaison, un processus de source fermée serait de se rendre dans un restaurant et commander une tranche de tarte aux cerises. Vous devez payer des frais pour manger la tarte, et le restaurant ne vous donnera probablement pas leur recette. Si vous avez copié leur tarte exactement et l'avez vendue sous votre propre nom, le restaurant pourrait prendre des mesures contre vous.
+Par comparaison, un processus de source fermée serait de se rendre dans un restaurant et commander une tranche de tarte aux cerises. Vous devez payer des frais pour manger la tarte, et le restaurant ne vous donnera probablement pas leur recette. Si vous avez copié leur tarte exactement et l'avez vendue sous votre propre nom, le restaurant pourrait même prendre des mesures légales contre vous.
 
 ### Pourquoi les gens ouvrent-ils leur travail ?
 
@@ -39,13 +39,13 @@ Par comparaison, un processus de source fermée serait de se rendre dans un rest
   </p>
 </aside>
 
-[Il y a plein de raisons](https://ben.balter.com/2015/11/23/why-open-source/) pour une personne ou une organisation de vouloir ouvrir un projet. Par exemple :
+[Il y a de nombreuses raisons](https://ben.balter.com/2015/11/23/why-open-source/) pour une personne ou une organisation de vouloir ouvrir un projet. Parmi celles-ci :
 
 * **Collaboration :** Les projets open source peuvent accepter des changements de n'importe qui dans le monde. [Exercism](https://github.com/exercism/), par exemple, est une plate-forme d'exercices de programmation avec plus de 350 contributeurs.
 
-* **Adoption et remixage :** Les projets open source peuvent être utilisés par n'importe qui pour presque n'importe quel but. Les gens peuvent même l'utiliser pour construire d'autres choses. [WordPress](https://github.com/WordPress), par exemple, a commencé en tant que fork d'un projet existant appelé [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
+* **Adoption et remixage :** Les projets open source peuvent être utilisés par n'importe qui dans presque n'importe quel but. Les gens peuvent même l'utiliser pour construire d'autres choses. [WordPress](https://github.com/WordPress), par exemple, a commencé en tant que fork (nous verrons plus tard ce qu'on appelle un fork, pour le moment voyez ceci comme une copie à un instant donné) d'un projet existant appelé [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparence :** Tout le monde peut inspecter un projet open source pour y chercher des erreurs ou des incohérences. La transparence est importante pour des gouvernements comme celui de [Bulgarie](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou des [États-Unis](https://sourcecode.cio.gov/), les industries réglementées comme la banque ou les soins de santé, et les logiciels de sécurité comme [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparence :** Tout le monde peut inspecter un projet open source pour y chercher des erreurs ou des incohérences. La transparence est importante pour des gouvernements comme celui de [Bulgarie](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou des [États-Unis](https://sourcecode.cio.gov/), les industries réglementées comme les banques ou les soins de santé, et les logiciels de sécurité comme [Let's Encrypt](https://github.com/letsencrypt).
 
 L'open source n'est pas seulement pour les logiciels. Vous pouvez tout rendre open source depuis les jeux de données aux livres. Jetez un coup d'œil sur [GitHub Explore](https://github.com/explore) pour trouver des idées sur ce que vous pouvez faire d'autre.
 
@@ -61,7 +61,7 @@ En conséquence, la plupart des projets open source sont gratuits, mais la "grat
 
 La réponse courte est oui, car peu importe le résultat, le lancement de votre propre projet est une excellente façon d'apprendre comment fonctionne l'open source.
 
-Si vous n'avez jamais ouvert un projet auparavant, vous pourriez être nerveux à propos de ce que les gens diront, ou du risque que personne ne le remarque. Si cela vous ressemble, vous n'êtes pas seul !
+Si vous n'avez jamais ouvert aux autres un projet auparavant, vous pourriez vous demander ce que les gens vont penser, ou être inquiet du risque que personne ne le remarquera. Si cela vous parle, sachez que vous n'êtes pas seul !
 
 Le travail open source est comme toute autre activité créative, que ce soit l'écriture ou la peinture. Cela peut être effrayant de partager votre travail avec le reste du monde, mais la seule façon de s'améliorer est de pratiquer - même si vous n'avez pas de public.
 
@@ -73,27 +73,27 @@ Les objectifs peuvent vous aider à déterminer ce sur quoi vous devez travaille
 
 Il n'y a pas de bonne réponse à cette question. Vous pouvez avoir plusieurs objectifs pour un même projet ou différents projets avec des objectifs différents.
 
-Si votre seul objectif est de montrer votre travail, vous ne voulez peut-être même pas de contributions, et même le dire dans votre fichier README. D'un autre côté, si vous voulez des contributeurs, vous allez investir du temps dans une documentation claire et faire en sorte que les nouveaux arrivants se sentent les bienvenus.
+Si votre seul objectif est de montrer votre travail, vous ne voulez peut-être même pas de contributions, et vous pouvez alors même le dire dans votre fichier README. D'un autre côté, si vous voulez des contributeurs, vous allez investir du temps dans une documentation claire et faire en sorte que les nouveaux arrivants se sentent les bienvenus.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  A un certain moment, j'ai créé un UIAlertView personnalisé que j'utilisais... et j'ai décidé de le rendre open source. Je l'ai donc modifié pour être plus dynamique et l'ai téléchargé sur GitHub. J'ai également écrit ma première documentation expliquant aux autres développeurs comment l'utiliser sur leurs projets. Probablement personne ne l'a jamais utilisé parce que c'était un projet simple mais je me sentais bien dans ma contribution.
+  A un certain moment, j'ai créé un UIAlertView personnalisé que j'utilisais... et j'ai décidé de le rendre open source. Je l'ai donc modifié pour être plus dynamique et l'ai mis à disposition sur GitHub. J'ai également écrit ma première documentation expliquant aux autres développeurs comment l'utiliser dans leurs projets. Probablement personne ne l'a jamais utilisé parce que c'était un projet simple mais je me sentais satisfait de ma contribution.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
-Au fur et à mesure que votre projet grandit, votre communauté peut avoir besoin de plus que du code. Répondre aux problèmes, réviser le code et promouvoir votre projet sont des tâches importantes dans un projet open source.
+Au fur et à mesure que votre projet grandit, votre communauté peut commencer à avoir besoin de plus que du code. Gardez bien à l'esprit que répondre aux problèmes, réviser le code et promouvoir votre projet sont des tâches importantes dans un projet open source.
 
 Bien que le temps que vous consacrez à des tâches sans code dépende de la taille et de la portée de votre projet, vous devez vous préparer en tant que responsable à les résoudre par vous-même ou à trouver quelqu'un pour vous aider.
 
 **Si vous faites partie d'une entreprise qui ouvre le code source d'un projet,** assurez-vous que votre projet dispose des ressources internes dont il a besoin pour prospérer. Vous voudrez identifier qui est responsable de la maintenance du projet après son lancement et comment vous allez partager ces tâches avec votre communauté.
 
-Si vous avez besoin d'un budget ou d'un personnel dédié pour la promotion, les opérations et la maintenance du projet, commencez ces conversations aussi tôt que possible.
+Si vous avez besoin d'un budget ou d'un personnel dédié pour la promotion, les opérations et la maintenance du projet, commencez ces discussions au sein de votre entreprise aussi tôt que possible.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  Lorsque vous commencez à ouvrir le projet, il est important de vous assurer que vos processus de gestion prennent en compte les contributions et les capacités de la communauté autour de votre projet. N'ayez pas peur d'impliquer des contributeurs qui ne sont pas employés dans votre entreprise dans les aspects clés du projet — surtout s'ils sont des contributeurs fréquents.
+  Lorsque vous commencez à ouvrir le projet, il est important de vous assurer que vos processus de gestion prennent en compte les contributions et les capacités de la communauté autour de votre projet. N'ayez pas peur d'impliquer des contributeurs qui ne sont pas employés dans votre entreprise dans les aspects clés du projet — surtout s'ils sont des contributeurs réguliers.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
@@ -124,7 +124,7 @@ Si votre projet est sur GitHub, placer ces fichiers dans votre répertoire racin
 
 ### Choisir une licence
 
-Une licence open source garantit que d'autres utilisateurs peuvent utiliser, copier, modifier et contribuer à votre projet sans aucune répercussion. Il vous protège également contre les situations juridiques épineuses. **Vous devez inclure une licence lorsque vous lancez un projet open source.**
+Une licence open source garantit que d'autres utilisateurs peuvent utiliser, copier, modifier et contribuer à votre projet sans aucune répercussion. Elle vous protège également contre les situations juridiques épineuses. **Vous devez inclure une licence lorsque vous lancez un projet open source.**
 
 Le travail juridique n'est pas amusant. La bonne nouvelle est que vous pouvez copier et coller une licence existante dans votre dépôt. Cela ne prendra qu'une minute pour protéger votre dur labeur.
 
@@ -151,13 +151,13 @@ Vous pouvez utiliser votre fichier README pour répondre à d'autres questions, 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Une meilleure documentation signifie plus d'utilisateurs, moins de demandes de support et plus de contributeurs. (...) Rappelez-vous que vos lecteurs ne sont pas vous. Il y a des gens qui pourraient participer à un projet et qui ont des expériences complètement différentes.
+  Une meilleure documentation signifie plus d'utilisateurs, moins de demandes de support et plus de contributeurs. (...) Rappelez-vous que vos lecteurs ne sont pas vous. Il y a des gens avec des expériences complètement différentes qui pourraient participer à votre projet.
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Parfois, les gens évitent d'écrire un fichier README parce qu'ils ont l'impression que le projet n'est pas terminé ou qu'ils ne veulent pas de contributions. Ce sont toutes de très bonnes raisons d'en écrire une.
+Parfois, les gens évitent d'écrire un fichier README parce qu'ils ont l'impression que le projet n'est pas terminé ou qu'ils ne veulent pas de contributions. En fait ce sont toutes de très bonnes raisons d'en écrire un.
 
 Pour plus d'inspiration, essayez d'utiliser celui de @18F ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) ou le [modèle de README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) de @PurpleBooth pour écrire un fichier README complet.
 
@@ -185,7 +185,7 @@ Par exemple, [Active Admin](https://github.com/activeadmin/activeadmin/) démarr
 
 Dans les premières étapes de votre projet, votre fichier CONTRIBUTING peut être simple. Vous devez toujours expliquer comment signaler les bogues ou les problèmes de fichiers, ainsi que les exigences techniques (comme les tests) pour apporter une contribution.
 
-Au fil du temps, vous pouvez ajouter d'autres questions fréquemment posées à votre fichier CONTRIBUTING. L'écriture de cette information signifie que moins de personnes vous poseront les mêmes questions encore et encore.
+Au fil du temps, vous pouvez ajouter d'autres questions fréquemment posées à votre fichier CONTRIBUTING. La rédaction de ce genre d'informations signifie que moins de personnes vous poseront les mêmes questions encore et encore.
 
 Pour plus d'aide avec la rédaction de votre fichier CONTRIBUTING, consultez le [modèle de guide de contribution de @nayafia](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) ou le guide de @mozilla ["Comment Construire un CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
@@ -207,15 +207,15 @@ Enfin, un code de conduite permet de définir des règles de base pour le compor
 
 Pour plus d'informations, consultez notre [Code de conduite](../code-of-conduct/).
 
-En plus de d'indiquer _comment_ vous souhaitez que les participants se comportent, un code de conduite a également tendance à décrire à qui s'appliquent ces attentes, quand elles s'appliquent, et que faire en cas de violation.
+En plus d'indiquer _comment_ vous souhaitez que les participants se comportent, un code de conduite a également tendance à décrire à qui s'appliquent ces attentes, quand elles s'appliquent, et que faire en cas de violation.
 
 Tout comme les licences open source, il existe également des normes émergentes pour les codes de conduite, vous n'avez donc pas besoin d'écrire les vôtres. Le [Contributor Covenant](https://contributor-covenant.org/)) est un code de conduite qui est utilisé par [plus de 40 000 projets open source](https://www.contributor-covenant.org/adopters) , y compris Kubernetes, Rails et Swift. Quel que soit le texte que vous utilisez, vous devez être prêt à appliquer votre code de conduite si nécessaire.
 
-Collez le texte directement dans un fichier CODE_OF_CONDUCT dans votre repository. Conservez le fichier dans le répertoire racine de votre projet pour qu'il soit facile à trouver et liez-le à partir de votre fichier README.
+Collez le texte directement dans un fichier CODE_OF_CONDUCT dans votre repository. Conservez le fichier dans le répertoire racine de votre projet pour qu'il soit facile à trouver et mettez un lien vers lui dans votre fichier README.
 
 ## Nommer et créer l'image de marque de votre projet
 
-La marque est plus qu'un logo flashy ou un nom de projet accrocheur. Il s'agit de la façon dont vous parlez de votre projet et de qui vous parlez avec votre message.
+La marque est plus qu'un logo flashy ou un nom de projet accrocheur. Il s'agit de la façon dont vous parlez de votre projet et à qui est destiné votre message.
 
 ### Choisir le bon nom
 
@@ -228,15 +228,15 @@ Si vous construisez sur un projet existant, l'utilisation de leur nom comme pré
 
 Pensez à la clarté avant tout. Faire des jeux de mots, c'est amusant, mais rappelez-vous que certaines blagues peuvent ne pas se traduire dans d'autres cultures et des personnes ayant des expériences différentes de vous peuvent ne pas les comprendre. Certains de vos utilisateurs potentiels peuvent être des employés dans une entreprise : vous ne voulez pas les mettre mal à l'aise quand ils devront expliquer votre projet au travail !
 
-### Eviter les conflits de noms
+### Éviter les conflits de noms
 
 [Vérifiez les projets open source avec un nom similaire](http://ivantomic.com/projects/ospnc/), surtout si vous partagez le même langage ou écosystème. Si votre nom est trop proche de celui d'un projet existant populaire, vous risquez de perturber votre auditoire.
 
 Si vous souhaitez un site Web, un pseudo Twitter ou d'autres entités pour représenter votre projet, assurez-vous de pouvoir obtenir les noms souhaités. Idéalement, [réservez ces noms maintenant](https://instantdomainsearch.com/) pour votre tranquillité d'esprit, même si vous n'avez pas l'intention de les utiliser pour l'instant.
 
-Assurez-vous que le nom de votre projet ne porte atteinte à aucune marque. Une entreprise pourrait vous demander d'arrêter votre projet dans le futur, ou même intenter une action en justice contre vous. Cela ne vaut tout simplement pas le risque.
+Assurez-vous que le nom de votre projet ne porte pas atteinte à une marque. Une entreprise pourrait vous demander d'arrêter votre projet dans le futur, ou même intenter une action en justice contre vous. Cela ne vaut tout simplement pas le risque.
 
-Vous pouvez consulter la [Base de données mondiale de l'OMPI sur les marques](http://www.wipo.int/branddb/en/) pour les conflits de marques. Si vous êtes dans une entreprise, c'est un des sujets sur lesquels [votre équipe juridique peut vous aider](../legal/).
+Vous pouvez consulter la [Base de données mondiale de l'OMPI sur les marques](https://www.wipo.int/branddb/fr/) pour obtenir des informations sur les marques provenant de différentes sources aux niveaux national et international. Si vous êtes dans une entreprise, c'est un des sujets sur lesquels [votre équipe juridique peut vous aider](../legal/).
 
 Enfin, recherchez le nom de votre projet sur Google. Les gens pourront-ils trouver facilement votre projet ? Est-ce que quelque chose d'autre apparaît dans les résultats de recherche que vous ne voudriez pas qu'ils voient ?
 
@@ -248,13 +248,13 @@ Qu'il s'agisse d'une documentation officielle ou d'un courriel occasionnel, votr
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  J'ai essayé de m'impliquer dans tous les sujets de la liste de diffusion, de montrer un comportement exemplaire, d'être gentil avec les gens, de prendre leurs problèmes au sérieux et d'essayer d'être utile dans l'ensemble. Au bout d'un moment, les gens sont restés non seulement à poser des questions, mais aussi à répondre aux questions, et à mon plus grand plaisir, ils ont imité mon style.
+  J'ai essayé de m'impliquer dans tous les sujets de la liste de diffusion, de montrer un comportement exemplaire, d'être gentil avec les gens, de prendre leurs problèmes au sérieux et d'essayer d'être utile dans l'ensemble. Au bout d'un moment, les gens sont restés non seulement à poser des questions, mais aussi à répondre aux questions, et pour mon plus grand plaisir, ils ont imité mon style.
   <p markdown="1" class="pquote-credit">
 — @janl sur [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-L'utilisation d'un langage chaleureux et inclusif (tel que «eux», même en faisant référence à la personne seule) peut faire beaucoup pour rendre votre projet accueillant pour les nouveaux contributeurs. Tenez-vous-en à un langage simple, car bon nombre de vos lecteurs ne sont peut-être pas francophones.
+L'utilisation d'un langage chaleureux et inclusif (tel que l'utilisation de «eux», même en faisant référence à la personne seule) peut faire beaucoup pour rendre votre projet accueillant pour les nouveaux contributeurs. Tenez-vous-en à un langage simple, car bon nombre de vos lecteurs ne sont peut-être pas francophones.
 
 Au-delà de votre façon d'écrire, votre style de codage peut également faire partie de la marque de votre projet. [Angular](https://github.com/johnpapa/angular-styleguide) et [jQuery](https://contribute.jquery.org/style-guide/js/) sont deux exemples de projets avec des lignes directrices et des styles de codage rigoureux.
 
@@ -299,7 +299,7 @@ Prêt à lancer votre projet open source ? Voici une checklist pour vous aider. 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Le projet utilise des conventions de code cohérentes et les noms de fonction / méthode / variable sont clairs
+    Le projet utilise des conventions de code cohérentes et les noms des fonctions / méthodes / variables sont clairs
   </label>
 </div>
 
